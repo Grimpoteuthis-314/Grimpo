@@ -1,6 +1,6 @@
 <nav class="m">
 	{% for item in site.data.navigation %}
-	<a href="{{ item.permalink | prepend: site.baseurl }}" {% if page.url == item.link %} class="cu" {% endif %}> {{ item.name }}</a>
+	<a href="{{ item.permalink | prepend: site.baseurl }}" {% if page.url == item.permalink %} class="cu" {% endif %}> {{ item.name }}</a>
 	{% endfor %}
 </nav>
 
