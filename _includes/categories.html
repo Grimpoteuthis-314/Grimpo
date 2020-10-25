@@ -1,0 +1,9 @@
+<div class="ctm">
+	<h3>CATEGORIES</h3>
+</div>
+<nav class="mc">
+	{% for categorie in site.data.categories %}
+	<a href="{{ categorie.permalink | prepend: site.baseurl }}" {% if page.url == categorie.permalink %}class="cc"{% endif%} id="amc">{{ categorie.name }}</a>
+	<hr>
+	{% endfor %}
+</nav>

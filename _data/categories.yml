@@ -1,0 +1,12 @@
+- name: Technology
+  permalink: /tec
+- name: Nature
+  permalink: /nat
+- name: Art
+  permalink: /art
+- name: Philosophy
+  permalink: /phi
+- name: Quotes
+  permalink: /quo
+- name: Thoughts
+  permalink: /tho
