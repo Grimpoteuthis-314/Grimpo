@@ -1,5 +1,5 @@
 baseurl: /Grimpo
-url: "juxxon23.github.io"
+url: "grimpoteuthis-314.github.io"
 
 plugins:
       - jekyll-feed
@@ -11,3 +11,9 @@ defaults:
         path: ""
       values:
           layout: "default"
+
+collections:
+  authors:
+    output: true
+  topics:
+    output: true
