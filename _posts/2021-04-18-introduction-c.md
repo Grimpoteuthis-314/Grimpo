@@ -26,11 +26,19 @@ Se describe el siguiente caso, el compilador recibe el **código fuente** de un 
 
 - Enlazador (Linker): Recibe el objeto (**.o**) generado y construye el objeto final enlazando las cabeceras (**.h**) y librerías (**.a**) esenciales para la ejecución del programa. El ejecutable tendrá la extensión **\*.out**.
 
---- **Estructura de programa en C**
 
+![Compilation Process](assets/images/20210418/compilation_process.png){:width="60%"}
 
-**Fuentes**
+--- **Estructura general de programa en C**
+
+1. Directivas del preprocesador, ejemplo:
+    - #include \<xx.h\>, indica las cabeceras donde se encuentran identificadores, macros, constantes, variables globales, prototipos de funciones, entre otros.
+    - #define, declarar identificadores de constantes o macros.
+
+2. Declaracion de variables globales
+
+## **Fuentes**
 
 - Fundamentos del sistema operativo UNIX, Jose M. Diaz - Rocio Muñoz, (2008).
-- [C Lenguaje de programación](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)), Wikipedia.
-- [Preprocessor](https://en.wikipedia.org/wiki/Preprocessor), Wikipedia.
+- *[C Lenguaje de programación](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))*, Wikipedia.
+- *[Preprocessor](https://en.wikipedia.org/wiki/Preprocessor)*, Wikipedia.
