@@ -35,7 +35,27 @@ Se describe el siguiente caso, el compilador recibe el **código fuente** de un 
     - #include \<xx.h\>, indica las cabeceras donde se encuentran identificadores, macros, constantes, variables globales, prototipos de funciones, entre otros.
     - #define, declarar identificadores de constantes o macros.
 
-2. Declaracion de variables globales
+2. Declaracion de variables globales.
+
+3. Declaracion de prototipos de funciones.
+
+4. Funcion main.
+
+5. Funciones de prototipos definidos.
+
+Ejemplo:
+
+- Se crea un programa basico con el siguiente nombre: `basic.c`
+
+![C basic program](assets/images/20210418/Cbasis1.png)
+
+- Se compila el codigo fuente, en este caso se especifica el nombre del ejecutable: `bas`
+
+![gcc compilation](assets/images/20210418/Cbasis2.png)
+
+- Se ejecuta el archivo generado.
+
+![execution](assets/images/20210418/Cbasis3.png)
 
 ## **Fuentes**
 
