@@ -8,7 +8,9 @@ Este lenguaje de alto nivel fue desarrollado inicialmente en Bell Labs de AT&T p
 
 ## Conceptos Básicos
 
---- --- **Creación de un programa** --- ---
+---
+
+--- --- **Creación de un programa**
 
 Es necesario definir superficialmente los siguientes conceptos:
 Un compilador es un programa que se encarga de traducir el código fuente de un lenguaje a otro, para lograr su objetivo es necesario un trabajo en conjunto con otros programas.
@@ -16,18 +18,20 @@ Se describe el siguiente caso, el compilador recibe el **código fuente** de un 
 
 --- **Proceso de Compilación C**
 
-- El archivo que contiene el código fuente escrito en C deberá poseer la extensión **\*.c**.
+  - El archivo que contiene el código fuente escrito en C deberá poseer la extensión **\*.c**.
 
-- Preprocesador (Preprocessor): realizan tareas como la inclusión de ficheros, sustituciones de macros y eliminación de comentarios, produciendo la entrada para el compilador; el preprocesador genera un archivo con extensión **\*.i**.
+  - Preprocesador (Preprocessor): realizan tareas como la inclusión de ficheros, sustituciones de macros y eliminación de comentarios, produciendo la entrada para el compilador; el preprocesador genera un archivo con extensión **\*.i**.
 
-- Compilador: Este genera un archivo en lenguaje ensamblador con extensión **\*.s**.
+  - Compilador: Este genera un archivo en lenguaje ensamblador con extensión **\*.s**.
 
-- Ensamblador (Assembler/Assembly): Genera el objeto que será utilizado por el linker con extensión **\*.o**.
+  - Ensamblador (Assembler/Assembly): Genera el objeto que será utilizado por el linker con extensión **\*.o**.
 
-- Enlazador (Linker): Recibe el objeto (**.o**) generado y construye el objeto final enlazando las cabeceras (**.h**) y librerías (**.a**) esenciales para la ejecución del programa. El ejecutable tendrá la extensión **\*.out**.
+  - Enlazador (Linker): Recibe el objeto (**.o**) generado y construye el objeto final enlazando las cabeceras (**.h**) y librerías (**.a**) esenciales para la ejecución del programa. El ejecutable tendrá la extensión **\*.out**.
 
 
 ![Compilation Process](assets/images/20210418/compilation_process.png){:width="60%"}
+
+---
 
 --- **Estructura general de programa en C**
 
@@ -56,6 +60,8 @@ Ejemplo:
 - Se ejecuta el archivo generado.
 
 ![execution](assets/images/20210418/Cbasis3.png)
+
+---
 
 ## **Fuentes**
 
