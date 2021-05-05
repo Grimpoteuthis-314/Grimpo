@@ -65,7 +65,7 @@ Se describe el siguiente caso, el compilador recibe el **código fuente** de un 
 
 --- **Datos**
 
-Las **constantes** Se refiere a valores fijos inalterables por el programa, se pueden
+Las **constantes** se refieren a valores fijos inalterables por el programa, se pueden
 categorizar de la siguiente forma:
 
 1. **Constantes Enteras:** Numeros con valores enteros, estos permiten su escritura en
@@ -77,7 +77,7 @@ tres sistemas numericos:
 
 2. **Constantes con punto flotante:** Numeros decimales con punto decimal y/o con exponente.
 
-3. **Constantes de caracter:** Equivale a un solo caracter entre comillas simples, cada caracter tiene es equivalente a un numero entero descrito en el codigo ASCII.
+3. **Constantes de caracter:** Equivale a un solo caracter entre comillas simples, cada caracter es equivalente a un numero entero descrito en el codigo ASCII.
 
 4. **Constantes de cadenas de caracteres:** N numero de caracteres consecutivos entre
 comillas dobles.
@@ -90,6 +90,18 @@ de compilacion `#define`.
 Al final de cada constante de cadena de caracteres el compilador inserta un caracter nulo, este puede ser representado con la secuencia de escape (`\0`), a partir
 de esto podemos identificar que el caracter `'H'` es diferente de la cadena de caracteres `"H"`, ya que esta ultima posee el caracter nulo al final (`"H\0"`).
 
+**Variables**
+
+Estas se declaran de la siguiente forma: `tipo_dato nombre_variable;`
+
+Se inicializan asignando un valor que corresponda al tipo de dato: `tipo_dato nombre_variable = valor;`.
+
+**Tipos de datos**
+
+Los tipos fundamentales que el lenguaje *C* ofrece se encuentran clasificados de la siguiente forma:
+- **Tipos enteros:** Estos son utilizados para representar subconjuntos de numeros naturales y enteros.
+- **Tipos reales:** Permiten representar subconjuntos de numeros racionales.
+- **Tipo void:** Es empleado para declarar que una funcion no retorna valores o para declarar punteros genericos.
 
 
 
