@@ -65,7 +65,7 @@ Se describe el siguiente caso, el compilador recibe el **código fuente** de un 
 
 --- **Datos**
 
-Las **constantes** se refieren a valores fijos inalterables por el programa, se pueden
+Las **constantes** se refieren a valores fijos e inalterables por el programa, se pueden
 categorizar de la siguiente forma:
 
 1. **Constantes Enteras:** Numeros con valores enteros, estos permiten su escritura en
@@ -90,19 +90,46 @@ de compilacion `#define`.
 Al final de cada constante de cadena de caracteres el compilador inserta un caracter nulo, este puede ser representado con la secuencia de escape (`\0`), a partir
 de esto podemos identificar que el caracter `'H'` es diferente de la cadena de caracteres `"H"`, ya que esta ultima posee el caracter nulo al final (`"H\0"`).
 
-**Variables**
+--**Variables**
 
 Estas se declaran de la siguiente forma: `tipo_dato nombre_variable;`
 
 Se inicializan asignando un valor que corresponda al tipo de dato: `tipo_dato nombre_variable = valor;`.
 
-**Tipos de datos**
+--**Tipos de datos**
 
 Los tipos fundamentales que el lenguaje *C* ofrece se encuentran clasificados de la siguiente forma:
-- **Tipos enteros:** Estos son utilizados para representar subconjuntos de numeros naturales y enteros.
-- **Tipos reales:** Permiten representar subconjuntos de numeros racionales.
-- **Tipo void:** Es empleado para declarar que una funcion no retorna valores o para declarar punteros genericos.
+1. **Tipos enteros:** Estos son utilizados para representar subconjuntos de numeros naturales y enteros.
+    - **`char`:** Numero entero de 8 bits, rango [-128, 127]. Tambien es utilizado para representar caracteres de acuerdo al codigo ASCII.
+    - **`int`:** Numero entero de 16 o 32 bits (depende del procesador).
 
+    ![Integer Data Types](assets/images/20210418/TiposDatosEnteros.png)
+
+    ![Integer Data Types Execution](assets/images/20210418/TiposDatosEnterosEx.png)
+
+2. **Tipos reales:** Permiten representar subconjuntos de numeros racionales.
+    - **`float`:** Numero con punto flotante, el tamano es de 32 bits o 4 bytes.
+    - **`double`:** Numero con punto flotante, el tamano es de 64 bits o 8 bytes.
+
+    ![real Data Types](assets/images/20210418/TiposDatosReales.png)
+
+    ![real Data Types Execution](assets/images/20210418/TiposDatosRealesEx.png)
+
+3. **Tipo void:** Es empleado para declarar la ausencia de valores en el retorno de una funcion o para declarar punteros genericos.
+
+    ![void](assets/images/20210418/void.png)
+
+
+--**Modificadores**
+Los modificadores permiten cambiar el tamano de los tipos de datos numericos.
+- **unsigned:** Representa numeros naturales (Mayor o igual a cero).
+- **signed:** Representa tanto numeros positivos como negativos, comportamiento por defecto.
+- **long:** Permite ampliar el tamano en bits.
+- **short:** Indica un tamano mas pequeno de bits.
+
+![Bytes Sizes Data Types](assets/images/20210418/bytesSize.png)
+
+![Bytes Sizes Data Types Execution](assets/images/20210418/bytesSizeEx.png)
 
 
 
@@ -113,7 +140,8 @@ Los tipos fundamentales que el lenguaje *C* ofrece se encuentran clasificados de
 - Fundamentos del sistema operativo UNIX, Jose M. Diaz - Rocio Muñoz, (2008).
 - *[C Lenguaje de programación](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))*, Wikipedia.
 - *[Preprocessor](https://en.wikipedia.org/wiki/Preprocessor)*, Wikipedia.
+- *[Lenguaje C](https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf)*, Enrique Vicente Bonet Esteban.
 
 ---
 
-Ultima modificacion: *04 May 2021*
+Ultima modificacion: *08 May 2021*
