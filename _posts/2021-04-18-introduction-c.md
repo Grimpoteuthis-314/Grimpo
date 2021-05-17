@@ -49,11 +49,11 @@ Se describe el siguiente caso, el compilador recibe el **código fuente** de un 
 
 **Ejemplo:**
 
-- Se crea un programa basico con el siguiente nombre: `basic.c`
+- Se crea un programa básico con el siguiente nombre: `basic.c`
 
 ![C basic program](assets/images/20210418/Cbasis1.png)
 
-- Se compila el codigo fuente, en este caso se especifica el nombre del ejecutable: `bas`
+- Se compila el codigo fuente, en este caso se específica el nombre del ejecutable: `bas`
 
 ![gcc compilation](assets/images/20210418/Cbasis2.png)
 
@@ -68,71 +68,71 @@ Se describe el siguiente caso, el compilador recibe el **código fuente** de un 
 Las **constantes** se refieren a valores fijos e inalterables por el programa, se pueden
 categorizar de la siguiente forma:
 
-1. **Constantes Enteras:** Numeros con valores enteros, estos permiten su escritura en
-tres sistemas numericos:
-    - **Decimales:** Combinacion de digitos existentes en el conjunto de **0** a **9**, si consta
-    de dos o mas digitos, el primero debe ser distinto de **cero**.
-    - **Octal:**  Combinacion de digitos del conjunto **0** a **7**, el primer digito debe ser el **0**.
-    - **Hexadecimal:** Combinacion de digitos del conjunto de **0** a **9** y de **a** a **f** (mayuscula o minuscula), debe comenzar con **0x** o **0X**.
+1. **Constantes Enteras:** Números con valores enteros, estos permiten su escritura en
+tres sistemas numéricos:
+    - **Decimales:** Combinación de dígitos existentes en el conjunto de **0** a **9**, si consta
+    de dos o más dígitos, el primero debe ser distinto de **cero**.
+    - **Octal:**  Combinación de dígitos del conjunto **0** a **7**, el primer dígito debe ser el **0**.
+    - **Hexadecimal:** Combinación de dígitos del conjunto de **0** a **9** y de **a** a **f** (mayuscula o minuscula), debe comenzar con **0x** o **0X**.
 
-2. **Constantes con punto flotante:** Numeros decimales con punto decimal y/o con exponente.
+2. **Constantes con punto flotante:** Números decimales con punto decimal y/o con exponente.
 
-3. **Constantes de caracter:** Equivale a un solo caracter entre comillas simples, cada caracter es equivalente a un numero entero descrito en el codigo ASCII.
+3. **Constantes de carácter:** Equivale a un solo carácter entre comillas simples, cada carácter es equivalente a un número entero descrito en el código ASCII.
 
-4. **Constantes de cadenas de caracteres:** N numero de caracteres consecutivos entre
+4. **Constantes de cadenas de caracteres:** N número de caracteres consecutivos entre
 comillas dobles.
 
 Las constantes se pueden declarar con el modificador `const` o utilizando la directiva
-de compilacion `#define`.
+de compilación `#define`.
 
 ![const](assets/images/20210418/const.png)
 
 Al final de cada constante de cadena de caracteres el compilador inserta un caracter nulo, este puede ser representado con la secuencia de escape (`\0`), a partir
-de esto podemos identificar que el caracter `'H'` es diferente de la cadena de caracteres `"H"`, ya que esta ultima posee el caracter nulo al final (`"H\0"`).
+de esto podemos identificar que el carácter `'H'` es diferente de la cadena de caracteres `"H"`, ya que esta última posee el carácter nulo al final (`"H\0"`).
 
---**Variables**
+---
+
+**Variables**
 
 Estas se declaran de la siguiente forma: `tipo_dato nombre_variable;`
 
 Se inicializan asignando un valor que corresponda al tipo de dato: `tipo_dato nombre_variable = valor;`.
 
---**Tipos de datos**
+**Tipos de datos**
 
 Los tipos fundamentales que el lenguaje *C* ofrece se encuentran clasificados de la siguiente forma:
-1. **Tipos enteros:** Estos son utilizados para representar subconjuntos de numeros naturales y enteros.
-    - **`char`:** Numero entero de 8 bits, rango [-128, 127]. Tambien es utilizado para representar caracteres de acuerdo al codigo ASCII.
-    - **`int`:** Numero entero de 16 o 32 bits (depende del procesador).
+1. **Tipos enteros:** Estos son utilizados para representar subconjuntos de números naturales y enteros.
+    - **`char`:** Número entero de 8 bits, rango [-128, 127]. También es utilizado para representar caracteres de acuerdo al código ASCII.
+    - **`int`:** Número entero de 16 o 32 bits (depende del procesador).
 
     ![Integer Data Types](assets/images/20210418/TiposDatosEnteros.png)
 
     ![Integer Data Types Execution](assets/images/20210418/TiposDatosEnterosEx.png)
 
-2. **Tipos reales:** Permiten representar subconjuntos de numeros racionales.
-    - **`float`:** Numero con punto flotante, el tamano es de 32 bits o 4 bytes.
-    - **`double`:** Numero con punto flotante, el tamano es de 64 bits o 8 bytes.
+2. **Tipos reales:** Permiten representar subconjuntos de números racionales.
+    - **`float`:** Número con punto flotante, el tamaño es de 32 bits o 4 bytes.
+    - **`double`:** Número con punto flotante, el tamaño es de 64 bits o 8 bytes.
 
     ![real Data Types](assets/images/20210418/TiposDatosReales.png)
 
     ![real Data Types Execution](assets/images/20210418/TiposDatosRealesEx.png)
 
-3. **Tipo void:** Es empleado para declarar la ausencia de valores en el retorno de una funcion o para declarar punteros genericos.
+3. **Tipo `void`:** Es empleado para declarar la ausencia de valores en el retorno de una función o para declarar punteros genéricos.
 
     ![void](assets/images/20210418/void.png)
 
+---
 
---**Modificadores**
-Los modificadores permiten cambiar el tamano de los tipos de datos numericos.
-- **unsigned:** Representa numeros naturales (Mayor o igual a cero).
-- **signed:** Representa tanto numeros positivos como negativos, comportamiento por defecto.
-- **long:** Permite ampliar el tamano en bits.
-- **short:** Indica un tamano mas pequeno de bits.
+**Modificadores**
+Los modificadores permiten cambiar el tamaño de los tipos de datos numéricos.
+- **`unsigned`:** Representa números naturales (Mayor o igual a cero).
+- **`signed`:** Representa tanto números positivos como negativos, comportamiento por defecto.
+- **`long`:** Permite ampliar el tamaño en bits.
+- **`short`:** Indica un tamaño de bits menor.
 
 ![Bytes Sizes Data Types](assets/images/20210418/bytesSize.png)
 
 ![Bytes Sizes Data Types Execution](assets/images/20210418/bytesSizeEx.png)
-
-
-
 
 ---
 ## **Fuentes**
@@ -144,4 +144,4 @@ Los modificadores permiten cambiar el tamano de los tipos de datos numericos.
 
 ---
 
-Ultima modificacion: *08 May 2021*
+Última modificación: *08 May 2021*
