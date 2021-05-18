@@ -36,8 +36,8 @@ Se describe el siguiente caso, el compilador recibe el **código fuente** de un 
 --- **Estructura general de programa en C**
 
 1. Directivas del preprocesador, ejemplo:
-    - #include \<xx.h\>, indica las cabeceras donde se encuentran identificadores, macros, constantes, variables globales, prototipos de funciones, entre otros.
-    - #define, declarar identificadores de constantes o macros.
+    - `#include <xx.h>`, indica las cabeceras donde se encuentran identificadores, macros, constantes, variables globales, prototipos de funciones, entre otros.
+    - `#define`, declarar identificadores de constantes o macros.
 
 2. Declaracion de variables globales.
 
