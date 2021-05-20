@@ -135,12 +135,22 @@ Los modificadores permiten cambiar el tamaño de los tipos de datos numéricos.
 ![Bytes Sizes Data Types Execution](assets/images/20210418/bytesSizeEx.png)
 
 ---
+
+### Tener en cuenta
+
+La mejor practica al momento de crear la función `main` es utilizando como tipo de retorno `int` y retornando `0` para indicar que ha finalizado correctamente. La principal razón es para evitar problemas con algún compilador.
+
+![main function](assets/images/20210418/bestpracticemain.png)
+
+
+---
 ## **Fuentes**
 
 - Fundamentos del sistema operativo UNIX, Jose M. Diaz - Rocio Muñoz, (2008).
 - *[C Lenguaje de programación](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))*, Wikipedia.
 - *[Preprocessor](https://en.wikipedia.org/wiki/Preprocessor)*, Wikipedia.
 - *[Lenguaje C](https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf)*, Enrique Vicente Bonet Esteban.
+- *[Uso de la funcion "main" en C/C++](https://blog.r2d2rigo.es/2009/03/10/uso-de-la-funcin-main-en-cc/)*, Rodrigo Diaz, (2009).
 
 ---
 
