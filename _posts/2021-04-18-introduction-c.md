@@ -142,6 +142,10 @@ La mejor practica al momento de crear la función `main` es utilizando como tipo
 
 ![main function](assets/images/20210418/bestpracticemain.png)
 
+Ejemplo de calculadora basica:
+
+![basic calculator](assets/images/20210418/basicCalculator.png)
+
 
 ---
 ## **Fuentes**
