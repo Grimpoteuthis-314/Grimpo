@@ -1,0 +1,294 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Introduction C</title>
+		<link rel="icon" type="image/x-icon" href="assets/images/octopus.png" />
+		<link rel="stylesheet" href="assets/css/styles.css">
+		<link type="application/atom+xml" rel="alternate" href="grimpoteuthis-314.github.io/Grimpo/feed.xml" />
+		<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Introduction C</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="Introduction C" />
+<meta name="author" content="grim" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Este lenguaje de alto nivel fue desarrollado inicialmente en Bell Labs de AT&amp;T por Dennish Ritchie entre 1969 y 1973, la justificación de este lenguaje se encuentra íntimamente ligada con el sistema operativo UNIX (escrito en ensamblador), ya que C pasaría a reescribir este sistema operativo." />
+<meta property="og:description" content="Este lenguaje de alto nivel fue desarrollado inicialmente en Bell Labs de AT&amp;T por Dennish Ritchie entre 1969 y 1973, la justificación de este lenguaje se encuentra íntimamente ligada con el sistema operativo UNIX (escrito en ensamblador), ya que C pasaría a reescribir este sistema operativo." />
+<link rel="canonical" href="grimpoteuthis-314.github.io/Grimpo/introduction-c.html" />
+<meta property="og:url" content="grimpoteuthis-314.github.io/Grimpo/introduction-c.html" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-04-18T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Introduction C" />
+<script type="application/ld+json">
+{"description":"Este lenguaje de alto nivel fue desarrollado inicialmente en Bell Labs de AT&amp;T por Dennish Ritchie entre 1969 y 1973, la justificación de este lenguaje se encuentra íntimamente ligada con el sistema operativo UNIX (escrito en ensamblador), ya que C pasaría a reescribir este sistema operativo.","url":"grimpoteuthis-314.github.io/Grimpo/introduction-c.html","@type":"BlogPosting","headline":"Introduction C","dateModified":"2021-04-18T00:00:00+00:00","datePublished":"2021-04-18T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"grimpoteuthis-314.github.io/Grimpo/introduction-c.html"},"author":{"@type":"Person","name":"grim"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+	</head>
+	<body>
+		<div class="na">
+			<nav class="m">
+	
+	<a href="/Grimpo/" > Home</a>
+	
+	<a href="/Grimpo/about" > About</a>
+	
+</nav>
+
+
+		</div>
+		<div class="ttc">
+			<span id="g1"><h1>G</h1></span>
+			<span id="r1"><h1>R</h1></span>
+			<span id="i1"><h1>I</h1></span>
+			<span id="m1"><h1>M</h1></span>
+			<span id="p1"><h1>P</h1></span>
+			<span id="o1"><h1>O</h1></span>
+		</div>
+		<div class="ht">
+			<hr class="fh">
+			<p class="t2">SOPHIA</h1>
+			<p class="ito">
+				<p>*</p>
+				<i>Se presentan ante ti memorias de un desconocido.</i>
+			</p>
+		</div>
+		<div class="c">
+		</div>
+		<div class="bc">
+			<div class="ica">
+				<div class="ctm">
+	<h3>CATEGORIES</h3>
+</div>
+<nav class="mc">
+	
+	<a href="/Grimpo/tec"  id="amc">Technology</a>
+	<hr>
+	
+	<a href="/Grimpo/nat"  id="amc">Nature</a>
+	<hr>
+	
+	<a href="/Grimpo/art"  id="amc">Art</a>
+	<hr>
+	
+	<a href="/Grimpo/phi"  id="amc">Philosophy</a>
+	<hr>
+	
+	<a href="/Grimpo/quo"  id="amc">Quotes</a>
+	<hr>
+	
+	<a href="/Grimpo/tho"  id="amc">Thoughts</a>
+	<hr>
+	
+</nav>
+
+			</div>
+			<div class="cd">
+				<h1>Introduction C</h1>
+
+<p>
+  18 Apr 2021
+  
+  
+    - <i><a href="/Grimpo/grim.html">Grimpoteuthis</a></i>
+  
+</p>
+<br>
+<p>Este lenguaje de alto nivel fue desarrollado inicialmente en Bell Labs de AT&amp;T por Dennish Ritchie entre 1969 y 1973, la justificación de este lenguaje se encuentra íntimamente ligada con el sistema operativo UNIX (escrito en ensamblador), ya que C pasaría a reescribir este sistema operativo.</p>
+
+<h2 id="conceptos-básicos">Conceptos Básicos</h2>
+
+<hr />
+
+<p>— — <strong>Creación de un programa</strong></p>
+
+<p>Es necesario definir superficialmente los siguientes conceptos:
+Un compilador es un programa que se encarga de traducir el código fuente de un lenguaje a otro, para lograr su objetivo es necesario un trabajo en conjunto con otros programas.
+Se describe el siguiente caso, el compilador recibe el <strong>código fuente</strong> de un lenguaje de alto nivel y lo traduce a otro de bajo nivel (código ensamblador o máquina), el resultado es llamado <strong>objeto</strong>.</p>
+
+<p>— <strong>Proceso de Compilación C</strong></p>
+
+<ul>
+  <li>
+    <p>El archivo que contiene el código fuente escrito en C deberá poseer la extensión <strong>*.c</strong>.</p>
+  </li>
+  <li>
+    <p>Preprocesador (Preprocessor): realizan tareas como la inclusión de ficheros, sustituciones de macros y eliminación de comentarios, produciendo la entrada para el compilador; el preprocesador genera un archivo con extensión <strong>*.i</strong>.</p>
+  </li>
+  <li>
+    <p>Compilador: Este genera un archivo en lenguaje ensamblador con extensión <strong>*.s</strong>.</p>
+  </li>
+  <li>
+    <p>Ensamblador (Assembler/Assembly): Genera el objeto que será utilizado por el linker con extensión <strong>*.o</strong>.</p>
+  </li>
+  <li>
+    <p>Enlazador (Linker): Recibe el objeto (<strong>.o</strong>) generado y construye el objeto final enlazando las cabeceras (<strong>.h</strong>) y librerías (<strong>.a</strong>) esenciales para la ejecución del programa. El ejecutable tendrá la extensión <strong>*.out</strong>.</p>
+  </li>
+</ul>
+
+<p><img src="assets/images/20210418/compilation_process.png" alt="Compilation Process" width="60%" /></p>
+
+<hr />
+
+<p>— <strong>Estructura general de programa en C</strong></p>
+
+<ol>
+  <li>Directivas del preprocesador, ejemplo:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">#include &lt;xx.h&gt;</code>, indica las cabeceras donde se encuentran identificadores, macros, constantes, variables globales, prototipos de funciones, entre otros.</li>
+      <li><code class="language-plaintext highlighter-rouge">#define</code>, declarar identificadores de constantes o macros.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Declaracion de variables globales.</p>
+  </li>
+  <li>
+    <p>Declaracion de prototipos de funciones.</p>
+  </li>
+  <li>
+    <p>Funcion main.</p>
+  </li>
+  <li>Funciones de prototipos definidos.</li>
+</ol>
+
+<p><strong>Ejemplo:</strong></p>
+
+<ul>
+  <li>Se crea un programa básico con el siguiente nombre: <code class="language-plaintext highlighter-rouge">basic.c</code></li>
+</ul>
+
+<p><img src="assets/images/20210418/Cbasis1.png" alt="C basic program" /></p>
+
+<ul>
+  <li>Se compila el codigo fuente, en este caso se específica el nombre del ejecutable: <code class="language-plaintext highlighter-rouge">bas</code></li>
+</ul>
+
+<p><img src="assets/images/20210418/Cbasis2.png" alt="gcc compilation" /></p>
+
+<ul>
+  <li>Se ejecuta el archivo generado.</li>
+</ul>
+
+<p><img src="assets/images/20210418/Cbasis3.png" alt="execution" /></p>
+
+<hr />
+
+<p>— <strong>Datos</strong></p>
+
+<p>Las <strong>constantes</strong> se refieren a valores fijos e inalterables por el programa, se pueden
+categorizar de la siguiente forma:</p>
+
+<ol>
+  <li><strong>Constantes Enteras:</strong> Números con valores enteros, estos permiten su escritura en
+tres sistemas numéricos:
+    <ul>
+      <li><strong>Decimales:</strong> Combinación de dígitos existentes en el conjunto de <strong>0</strong> a <strong>9</strong>, si consta
+ de dos o más dígitos, el primero debe ser distinto de <strong>cero</strong>.</li>
+      <li><strong>Octal:</strong>  Combinación de dígitos del conjunto <strong>0</strong> a <strong>7</strong>, el primer dígito debe ser el <strong>0</strong>.</li>
+      <li><strong>Hexadecimal:</strong> Combinación de dígitos del conjunto de <strong>0</strong> a <strong>9</strong> y de <strong>a</strong> a <strong>f</strong> (mayuscula o minuscula), debe comenzar con <strong>0x</strong> o <strong>0X</strong>.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Constantes con punto flotante:</strong> Números decimales con punto decimal y/o con exponente.</p>
+  </li>
+  <li>
+    <p><strong>Constantes de carácter:</strong> Equivale a un solo carácter entre comillas simples, cada carácter es equivalente a un número entero descrito en el código ASCII.</p>
+  </li>
+  <li><strong>Constantes de cadenas de caracteres:</strong> N número de caracteres consecutivos entre
+comillas dobles.</li>
+</ol>
+
+<p>Las constantes se pueden declarar con el modificador <code class="language-plaintext highlighter-rouge">const</code> o utilizando la directiva
+de compilación <code class="language-plaintext highlighter-rouge">#define</code>.</p>
+
+<p><img src="assets/images/20210418/const.png" alt="const" /></p>
+
+<p>Al final de cada constante de cadena de caracteres el compilador inserta un caracter nulo, este puede ser representado con la secuencia de escape (<code class="language-plaintext highlighter-rouge">\0</code>), a partir
+de esto podemos identificar que el carácter <code class="language-plaintext highlighter-rouge">'H'</code> es diferente de la cadena de caracteres <code class="language-plaintext highlighter-rouge">"H"</code>, ya que esta última posee el carácter nulo al final (<code class="language-plaintext highlighter-rouge">"H\0"</code>).</p>
+
+<hr />
+
+<p><strong>Variables</strong></p>
+
+<p>Estas se declaran de la siguiente forma: <code class="language-plaintext highlighter-rouge">tipo_dato nombre_variable;</code></p>
+
+<p>Se inicializan asignando un valor que corresponda al tipo de dato: <code class="language-plaintext highlighter-rouge">tipo_dato nombre_variable = valor;</code>.</p>
+
+<p><strong>Tipos de datos</strong></p>
+
+<p>Los tipos fundamentales que el lenguaje <em>C</em> ofrece se encuentran clasificados de la siguiente forma:</p>
+<ol>
+  <li><strong>Tipos enteros:</strong> Estos son utilizados para representar subconjuntos de números naturales y enteros.
+    <ul>
+      <li><strong><code class="language-plaintext highlighter-rouge">char</code>:</strong> Número entero de 8 bits, rango [-128, 127]. También es utilizado para representar caracteres de acuerdo al código ASCII.</li>
+      <li><strong><code class="language-plaintext highlighter-rouge">int</code>:</strong> Número entero de 16 o 32 bits (depende del procesador).</li>
+    </ul>
+
+    <p><img src="assets/images/20210418/TiposDatosEnteros.png" alt="Integer Data Types" /></p>
+
+    <p><img src="assets/images/20210418/TiposDatosEnterosEx.png" alt="Integer Data Types Execution" /></p>
+  </li>
+  <li><strong>Tipos reales:</strong> Permiten representar subconjuntos de números racionales.
+    <ul>
+      <li><strong><code class="language-plaintext highlighter-rouge">float</code>:</strong> Número con punto flotante, el tamaño es de 32 bits o 4 bytes.</li>
+      <li><strong><code class="language-plaintext highlighter-rouge">double</code>:</strong> Número con punto flotante, el tamaño es de 64 bits o 8 bytes.</li>
+    </ul>
+
+    <p><img src="assets/images/20210418/TiposDatosReales.png" alt="real Data Types" /></p>
+
+    <p><img src="assets/images/20210418/TiposDatosRealesEx.png" alt="real Data Types Execution" /></p>
+  </li>
+  <li>
+    <p><strong>Tipo <code class="language-plaintext highlighter-rouge">void</code>:</strong> Es empleado para declarar la ausencia de valores en el retorno de una función o para declarar punteros genéricos.</p>
+
+    <p><img src="assets/images/20210418/void.png" alt="void" /></p>
+  </li>
+</ol>
+
+<hr />
+
+<p><strong>Modificadores</strong>
+Los modificadores permiten cambiar el tamaño de los tipos de datos numéricos.</p>
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">unsigned</code>:</strong> Representa números naturales (Mayor o igual a cero).</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">signed</code>:</strong> Representa tanto números positivos como negativos, comportamiento por defecto.</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">long</code>:</strong> Permite ampliar el tamaño en bits.</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">short</code>:</strong> Indica un tamaño de bits menor.</li>
+</ul>
+
+<p><img src="assets/images/20210418/bytesSize.png" alt="Bytes Sizes Data Types" /></p>
+
+<p><img src="assets/images/20210418/bytesSizeEx.png" alt="Bytes Sizes Data Types Execution" /></p>
+
+<hr />
+
+<h3 id="tener-en-cuenta">Tener en cuenta</h3>
+
+<p>La mejor practica al momento de crear la función <code class="language-plaintext highlighter-rouge">main</code> es utilizando como tipo de retorno <code class="language-plaintext highlighter-rouge">int</code> y retornando <code class="language-plaintext highlighter-rouge">0</code> para indicar que ha finalizado correctamente. La principal razón es para evitar problemas con algún compilador.</p>
+
+<p><img src="assets/images/20210418/bestpracticemain.png" alt="main function" /></p>
+
+<p>Ejemplo de calculadora basica:</p>
+
+<p><img src="assets/images/20210418/basicCalculator.png" alt="basic calculator" /></p>
+
+<hr />
+<h2 id="fuentes"><strong>Fuentes</strong></h2>
+
+<ul>
+  <li>Fundamentos del sistema operativo UNIX, Jose M. Diaz - Rocio Muñoz, (2008).</li>
+  <li><em><a href="https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)">C Lenguaje de programación</a></em>, Wikipedia.</li>
+  <li><em><a href="https://en.wikipedia.org/wiki/Preprocessor">Preprocessor</a></em>, Wikipedia.</li>
+  <li><em><a href="https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf">Lenguaje C</a></em>, Enrique Vicente Bonet Esteban.</li>
+  <li><em><a href="https://blog.r2d2rigo.es/2009/03/10/uso-de-la-funcin-main-en-cc/">Uso de la funcion “main” en C/C++</a></em>, Rodrigo Diaz, (2009).</li>
+</ul>
+
+<hr />
+
+<p>Última modificación: <em>08 May 2021</em></p>
+
+
+			</div>
+		</div>
+	</body>
+</html>

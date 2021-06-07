@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="grimpoteuthis-314.github.io/Grimpo/feed.xml" rel="self" type="application/atom+xml" /><link href="grimpoteuthis-314.github.io/Grimpo/" rel="alternate" type="text/html" /><updated>2021-06-07T21:21:44+00:00</updated><id>grimpoteuthis-314.github.io/Grimpo/feed.xml</id><entry><title type="html">Garabatos</title><link href="grimpoteuthis-314.github.io/Grimpo/garabatos.html" rel="alternate" type="text/html" title="Garabatos" /><published>2021-06-07T00:00:00+00:00</published><updated>2021-06-07T00:00:00+00:00</updated><id>grimpoteuthis-314.github.io/Grimpo/garabatos</id><content type="html" xml:base="grimpoteuthis-314.github.io/Grimpo/garabatos.html">&lt;p&gt;Algunos garabatos.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Synapsis]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210607/synapsis.jpg&quot; alt=&quot;Compilation Process&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Volkanopus]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210607/volkanopus.jpg&quot; alt=&quot;Compilation Process&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Sub]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210607/firstking.jpg&quot; alt=&quot;Compilation Process&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Hope]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210607/cow.jpg&quot; alt=&quot;Compilation Process&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Magic]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210607/magic.jpg&quot; alt=&quot;Compilation Process&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Greetings]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210607/greetings.jpg&quot; alt=&quot;Compilation Process&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Atomic Data]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210607/atomicdata.jpg&quot; alt=&quot;Compilation Process&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;fuentes&quot;&gt;&lt;strong&gt;Fuentes&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fundamentos del sistema operativo UNIX, Jose M. Diaz - Rocio Muñoz, (2008).&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)&quot;&gt;C Lenguaje de programación&lt;/a&gt;&lt;/em&gt;, Wikipedia.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Preprocessor&quot;&gt;Preprocessor&lt;/a&gt;&lt;/em&gt;, Wikipedia.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf&quot;&gt;Lenguaje C&lt;/a&gt;&lt;/em&gt;, Enrique Vicente Bonet Esteban.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://blog.r2d2rigo.es/2009/03/10/uso-de-la-funcin-main-en-cc/&quot;&gt;Uso de la funcion “main” en C/C++&lt;/a&gt;&lt;/em&gt;, Rodrigo Diaz, (2009).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Última modificación: &lt;em&gt;08 May 2021&lt;/em&gt;&lt;/p&gt;</content><author><name>grim</name></author><category term="art" /><summary type="html">Algunos garabatos.</summary></entry><entry><title type="html">Git Commands</title><link href="grimpoteuthis-314.github.io/Grimpo/git-commands.html" rel="alternate" type="text/html" title="Git Commands" /><published>2021-05-27T00:00:00+00:00</published><updated>2021-05-27T00:00:00+00:00</updated><id>grimpoteuthis-314.github.io/Grimpo/git-commands</id><content type="html" xml:base="grimpoteuthis-314.github.io/Grimpo/git-commands.html">&lt;p&gt;Lista de comandos Git&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;default-values&quot;&gt;[Default values]&lt;/h4&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;remote = origin&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;config&quot;&gt;[Config]&lt;/h4&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git config --global user.name &quot;&quot;&lt;/code&gt; : Configurar nombre del autor&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git config --global user.email &quot;&quot;&lt;/code&gt; : Configurar correo del autor&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git config --global credential.helper cache&lt;/code&gt; : Guardar creedenciales en cache (15 min)&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git clone [path | url]&lt;/code&gt; : Clonar repositorio local o remoto&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git init&lt;/code&gt; : inicializar repositorio local&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;basics&quot;&gt;[Basics]&lt;/h4&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git add *&lt;/code&gt; : Anadir al staging area&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -m &quot;&quot;&lt;/code&gt; : Guardar cambios en el repositorio local&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -am &quot;&quot;&lt;/code&gt; : Add y Commit&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit --amend&lt;/code&gt; : Editar descripcion del commit realizado&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git remote add [remote] [url]&lt;/code&gt; : Agregar repositorio remoto&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git remote -v&lt;/code&gt; : lista de los repositorios remotos&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push&lt;/code&gt; : Enviar cambios al repositorio remoto&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push [remote] [branch]&lt;/code&gt; : Enviar cambios a la rama x del repositorio remoto&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git fetch&lt;/code&gt; : Descarga el contenido del repositorio remoto pero no actualiza el repositorio local&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git merge&lt;/code&gt; : Permite fusionar cambios&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git pull&lt;/code&gt; : Fetch y Merge para los cambios del repositorio remoto&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git status&lt;/code&gt; : Mostrar informacion&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git status -s&lt;/code&gt; : Estado del archivo o directorio&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git log&lt;/code&gt; : Historial de commits&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git log --oneline&lt;/code&gt; : Resultados en una sola linea&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git reset --hard [id-commit]&lt;/code&gt;: Regresar algun cambio (Se perderan los cambios realizados en commits posteriores al ingresado)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;branches&quot;&gt;[Branches]&lt;/h4&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git checkout -b&lt;/code&gt; : Crear nueva rama y seleccionar dicha rama&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git checkout [branch]&lt;/code&gt; : Cambiar de rama&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch&lt;/code&gt; : Listar todas las ramas del repositorio&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch -d [branch]&lt;/code&gt; : Eliminar rama&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch -r&lt;/code&gt; : Listar remote/branch&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git branch -vv&lt;/code&gt; : Listar ramas con informacion extras&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push [remote] [branch]&lt;/code&gt; : Enviar rama al repositorio remoto&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push --all [remote]&lt;/code&gt; : Enviar todas las ramas al repositorio remoto&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push [remote] --delete [branch]&lt;/code&gt; : Eliminar rama del repositorio remoto&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;extras&quot;&gt;[Extras]&lt;/h4&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git tag [tag]&lt;/code&gt; : Asignar tag a commit&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push --tags [remote]&lt;/code&gt; : Enviar todos los tags al repositorio remoto&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Última modificación: &lt;em&gt;27 May 2021&lt;/em&gt;&lt;/p&gt;</content><author><name>grim</name></author><category term="tech" /><summary type="html">Lista de comandos Git</summary></entry><entry><title type="html">Javascript Basics</title><link href="grimpoteuthis-314.github.io/Grimpo/javascript-basics.html" rel="alternate" type="text/html" title="Javascript Basics" /><published>2021-05-17T00:00:00+00:00</published><updated>2021-05-17T00:00:00+00:00</updated><id>grimpoteuthis-314.github.io/Grimpo/javascript-basics</id><content type="html" xml:base="grimpoteuthis-314.github.io/Grimpo/javascript-basics.html">&lt;p&gt;JavaScript fue creado en 1995 por Brendan Eich cuando era ingeniero en Netscape, se lanzó por primera vez en Netscape 2 a principios de 1996, ese mismo año resultó la primera edición estándar de ECMAScript; en 1999 se actualizó a la edición 3, la edición 5 de ECMAScript fue publicada en 2009 y la edición 6 fue publicada en junio de 2015.&lt;/p&gt;
+
+&lt;p&gt;El lenguaje JavaScript no posee el concepto de entrada o salida, está diseñado para ser ejecutado como lenguaje de scripting en un entorno hospedado y depende de los mecanismos que este disponga para comunicarse con el exterior, el entorno más común es el navegador pero no es el único que existe.&lt;/p&gt;
+
+&lt;p&gt;JavaScript es un lenguaje dinámico multiparadigma con tipos y operadores, objetos estándar integrados y métodos. Admite la programación orientada a objetos con prototipos de objetos, también admite programación funcional, las funciones se pueden almacenar en variables y ser pasadas como un objeto.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;tipos-de-datos&quot;&gt;Tipos de datos&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Números&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Valores IEEE 754 de formato de 64 bits de doble precisión, por lo que no existen números enteros a excepción de &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;BigInt&lt;/code&gt;. Un entero aparente resultaría ser un float aunque en la práctica, los valores enteros se tratarán como enteros de 32 bits.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Se admiten operadores estándar de aritmética, además existe un objeto incorporado llamado &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Math&lt;/code&gt; que proporciona funciones matemáticas avanzadas y constantes.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;La función &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;parseInt(string, base)&lt;/code&gt; permite convertir una cadena a número entero especificando su base, además se puede convertir a hexadecimal de la siguiente forma &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;parseInt('0x10')&lt;/code&gt; y a octal anteponiendo el &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0&lt;/code&gt; en lugar del &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0x&lt;/code&gt; pero esto solo funciona en navegadores antiguos (2013 o menor).&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;En el caso de la función &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;parseFloat()&lt;/code&gt;, este siempre usa base &lt;em&gt;10&lt;/em&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Se puede convertir valores a números utilizando el operador unario &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+&lt;/code&gt;, ejemplo:
+ &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+ '42';&lt;/code&gt; esto sería equivalente a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;42&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+ '0x10';&lt;/code&gt; igual a 16.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Si la cadena no es numérica devuelve un valor especial &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NaN&lt;/code&gt; (“Not a Number”).&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Si &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NaN&lt;/code&gt; es utilizado como operando en una operación matemática el resultado será &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NaN&lt;/code&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Existe la función &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;isNaN()&lt;/code&gt; para probar si un valor es &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NaN&lt;/code&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;JavaScript también cuenta con los valores especiales &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Infinity&lt;/code&gt; e &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-Infinity&lt;/code&gt; y pueden ser probados con la función &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;isFinite()&lt;/code&gt;, ejemplo: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1 / 0;&lt;/code&gt; equivale a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Infinity&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-1 / 0;&lt;/code&gt; equivale a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-Infinity&lt;/code&gt;; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;isFinite(1/0);&lt;/code&gt; equivale a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;false&lt;/code&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Las funciones &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;parseInt()&lt;/code&gt; y &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;parseFloat()&lt;/code&gt; analizan una cadena y devuelve hasta que alcancen un carácter no válido para el formato de número; el operador &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'+'&lt;/code&gt; al encontrar un carácter no válido devuelve &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NaN&lt;/code&gt;.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cadenas de texto&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Son secuencias de caracteres Unicode, secuencias de unidades de código UTF-16; cada unidad de código está representada por un número de 16 bits. Cada carácter Unicode está representado por 1 o 2 unidades de código.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;La propiedad &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;lenght&lt;/code&gt; permite acceder a la longitud de la cadena. Por ejemplo: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'hello'.lenght;&lt;/code&gt; equivale a 5.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;También tienen métodos para manipular las cadenas, ejemplo: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'hello'.charAt(0);&lt;/code&gt; devuelve &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&quot;h&quot;&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'hello, world'.replace('world', 'mars');&lt;/code&gt; retorna &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&quot;hello, mars&quot;&lt;/code&gt;, entre otros.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Booleanos&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Los valores que este tipo permite son &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;true&lt;/code&gt; y &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;false&lt;/code&gt;, aunque cualquier valor puede ser convertido a booleano teniendo en cuenta lo siguiente:&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;false&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0&lt;/code&gt;, cadenas vacias &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;(&quot;&quot;)&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;NaN&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;null&lt;/code&gt; y &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;undefined&lt;/code&gt; se convierten a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;false&lt;/code&gt;.&lt;/li&gt;
+      &lt;li&gt;Cualquier otro valor se convierte en &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/li&gt;
+    &lt;/ol&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Se puede realizar una conversión explícita con la función &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Boolean();&lt;/code&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Objetos&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Funciones&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Array&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;RegExp&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;null&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Representa intencionalmente un valor nulo o “vacio”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;undefined&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Indica una variable que aún no se le ha asignado un valor o no iniciada. undefined es una constante.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Simbolos&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;variables&quot;&gt;Variables&lt;/h2&gt;
+
+&lt;p&gt;Existen tres tipos de palabras claves para declarar variables: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;let&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;const&lt;/code&gt; o &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;var&lt;/code&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;let:&lt;/strong&gt; permite declarar variables a nivel de bloque, la variable solo estará disponible en el bloque donde está incluida.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;const:&lt;/strong&gt; permite declarar constantes (variables cuyos valores no cambiarán), la variable está disponible en el bloque donde se declara.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;var:&lt;/strong&gt; No posee restricciones en su uso, ya que inicialmente era la única forma de declarar variables, la variable está disponible en la función donde se declara.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Una variable que se declara sin asignación de valor, es de tipo &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;undefined&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;En JavaScript los bloques no tienen alcance, solo las funciones.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;operadores&quot;&gt;Operadores&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Operadores numéricos: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/&lt;/code&gt; y &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;%&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Operador de asignación &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;=&lt;/code&gt; y operadores de asignación compuesta como: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+=&lt;/code&gt; y &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-=&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Operador de incremento &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;++&lt;/code&gt; y decremento &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--&lt;/code&gt;, pueden ser utilizados como operadores prefijos o sufijos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;El operador &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+&lt;/code&gt; también permite concatenar cadenas aunque si se concatena un número a una cadena, este se convertirá a string.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Operadores de comparación: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;gt;&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;=&lt;/code&gt; y &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;gt;=&lt;/code&gt;; funcionan tanto para cadenas como para números. En la igualdad encontramos dos operadores: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;===&lt;/code&gt; permite realizar una comparación estricta y solo es verdadera si los operandos son del mismo tipo y sus contenidos coinciden, por otro lado, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;==&lt;/code&gt; permite una comparación abstracta donde convierte los operandos al mismo tipo (realiza coerción) antes de comparar sus contenidos. También cuenta con operadores &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!=&lt;/code&gt; y &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;!==&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Operadores lógicos &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;amp;&amp;amp;&lt;/code&gt; y &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;||&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Operador ternario &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;?&lt;/code&gt;, ejemplo: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;var allowed = (age &amp;gt; 18) ? 'yes' : 'no';&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;estructuras-de-control&quot;&gt;Estructuras de control&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;if () {} else if () {} else {}&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;switch () {case 1: instruction break; default: instruction;}&lt;/code&gt;, es posible tener expresiones tanto en el switch como en los casos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;while (true) {}&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;do {} while ()&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;for (var i = 0; i &amp;lt; 5; i++) {}&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;for (let value of array) {}&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;for (let property in object) {}&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;objetos&quot;&gt;Objetos&lt;/h2&gt;
+
+&lt;p&gt;Son simples colecciones de pares nombre-valor, la parte del nombre es una cadena y el valor puede ser cualquier valor de JavaScript, incluyendo más objetos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Se puede crear un objeto vacío de dos formas: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;var obj = new Object();&lt;/code&gt; y &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;var obj = {};&lt;/code&gt;. La segunda se llama sintaxis literal de objeto y es más conveniente, esta sintaxis también es el núcleo del formato &lt;em&gt;JSON&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Acceso a los atributos: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;obj.atributo;&lt;/code&gt; o &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;obj['atributo'];&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Se puede crear un prototipo de objeto y una instancia de la siguiente manera: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;function person(name) {this.name = name;}&lt;/code&gt;, para definir la instancia u objeto &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;var you = new Person('you');&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;arreglos&quot;&gt;Arreglos&lt;/h2&gt;
+
+&lt;p&gt;Son un tipo especial de objeto que se acceden utilizando la sintaxis &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[]&lt;/code&gt;, tienen la propiedad &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;lenght&lt;/code&gt; que siempre es uno más que el índice más alto del arreglo.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Se puede crear de dos formas: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;var a = new Array(); a[0] = 'dog';&lt;/code&gt;, o utilizando una notación literal &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;var a = ['dog'];&lt;/code&gt;. Al verificar la longitud &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a.lenght;&lt;/code&gt; obtenemos 1.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Si &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a[100] = 'rabbit';&lt;/code&gt;, al obtener la longitud &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a.lenght;&lt;/code&gt; obtenemos 101. Si se consulta un índice del arreglo que no existe se obtiene &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;undefined&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Se puede recorrer un arreglo con &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;arr.forEach()&lt;/code&gt; de la siguiente forma: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;['dog', 'cat', 'hen'].forEach(function(currentValue, index, array) {});&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Los arreglos poseen varios métodos para su manipulación.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;funciones&quot;&gt;Funciones&lt;/h2&gt;
+
+&lt;p&gt;Una función puede tomar 0 o más parámetros con nombre, el cuerpo de la función puede contener tantas declaraciones sea necesario y permite declarar variables que son locales para esa función. La declaración &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;return&lt;/code&gt; se usa para devolver un valor, terminando la función; si no se utiliza &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;return&lt;/code&gt; o se utiliza vacía sin valor, devuelve &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;undefined&lt;/code&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Las funciones tienen acceso a una variable adicional dentro de su cuerpo llamada &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;arguments&lt;/code&gt;, es un objeto tipo arreglo que contiene los valores pasados a la función.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;La sintaxis de los parámetros rest permiten representar un número indefinido de argumentos como un array &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;...variable&lt;/code&gt;, el parámetro rest captura todos los argumentos después de su declaración.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;También está disponible un método para especificar un arreglo arbitrario de argumentos como parámetros de una función &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;apply()&lt;/code&gt;, ejemplo: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fun.apply(null, [2, 3, 4, 5]);&lt;/code&gt;. Se puede obtener el mismo resultado con el operador de propagación en la llamada de la función &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fun(...numbers);&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Es posible crear funciones anónimas, permiten colocar la definición de una función completa en cualquier lugar donde normalmente se colocará una expresión.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;JavaScript permite llamar funciones de forma recursiva, siendo de gran utilidad en la manipulación de estructuras de árbol, como el DOM.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Para llamar de forma recursiva una función anónima se utilizan las expresiones de función, las cuales son ejecutadas inmediatamente al ser definidas.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;objetos-personalizados&quot;&gt;Objetos personalizados&lt;/h2&gt;
+
+&lt;p&gt;JavaScript es un lenguaje basado en prototipos que no contiene declaración de clase, en su lugar, JavaScript usa funciones como clases.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se enlazan funciones a un objeto, (Las funciones son objetos).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210517/EnlaceFuncionObjeto.png&quot; alt=&quot;Prototipo&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Si &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;this&lt;/code&gt; es usada dentro de una función se refiere al objeto actual. Si una función es llamada usando notación de puntos o corchetes, ese objeto se convierte en &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;this&lt;/code&gt;, de lo contrario, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;this&lt;/code&gt; será el objeto global.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;new&lt;/code&gt; crea un nuevo objeto vacío y luego llama a la función especificada, con &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;this&lt;/code&gt; configurado para ese nuevo objeto. Las funciones diseñadas para ser llamadas con &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;new&lt;/code&gt; se denominan funciones constructoras.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Una forma de mejorar el código anterior es asignando referencias de los objetos de función dentro del constructor&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Otra forma es utilizar el objeto compartido &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Object.prototype&lt;/code&gt;, este forma parte de una cadena de búsqueda (“cadena de prototipos”) todo lo asignado aquí pasa a estar disponible para todas las instancias de ese constructor a través del objeto &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;this&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210517/prototype.png&quot; alt=&quot;Prototype&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;cierres&quot;&gt;Cierres&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210517/cierres.png&quot; alt=&quot;Cierres&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cuando JavaScript ejecuta una función, se crea un objeto &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;scope&lt;/code&gt; para contener las variables locales creadas dentro de la función, se inicia con los parámetros de función. Se crea un objeto de alcance nuevo cada vez que la función se comienza a ejecutar y no se puede acceder directamente a estos objetos a través del código, ni iterar sobre las propiedades del objeto &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;scope&lt;/code&gt; actual.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Normalmente, el recolector de basura limpia el objeto pero en este caso la función devuelta mantienen una referencia a ese objeto de ámbito, el objeto &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;scope&lt;/code&gt; no será recolectado hasta que no haya más referencias al objeto función.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Estos objetos forman una cadena llamada “cadena de ámbito”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Los cierres son útiles para guardar estados.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;fuentes&quot;&gt;&lt;strong&gt;Fuentes&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://developer.mozilla.org/es/docs/Web/JavaScript/A_re-introduction_to_JavaScript&quot;&gt;Reintroducción a JavaScript&lt;/a&gt;&lt;/em&gt;, MDN Web Docs.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://developer.mozilla.org/es/docs/conflicting/Web/JavaScript/Reference/Operators_5a0acbbb60ea37d0fdc52e3bd4c3fae8&quot;&gt;Operadores de Comparación&lt;/a&gt;&lt;/em&gt;, MDN Web Docs.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators&quot;&gt;Expressions and operators&lt;/a&gt;&lt;/em&gt;, MDN Web Docs.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://developer.mozilla.org/es/docs/Glossary/IIFE&quot;&gt;IIFE: Expresión de funcion ejecutada inmediatamente&lt;/a&gt;&lt;/em&gt;, MDN Web Docs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Última modificación: &lt;em&gt;20 May 2021&lt;/em&gt;&lt;/p&gt;</content><author><name>grim</name></author><category term="tech" /><summary type="html">JavaScript fue creado en 1995 por Brendan Eich cuando era ingeniero en Netscape, se lanzó por primera vez en Netscape 2 a principios de 1996, ese mismo año resultó la primera edición estándar de ECMAScript; en 1999 se actualizó a la edición 3, la edición 5 de ECMAScript fue publicada en 2009 y la edición 6 fue publicada en junio de 2015.</summary></entry><entry><title type="html">Arithmetic Basics</title><link href="grimpoteuthis-314.github.io/Grimpo/arithmetic-basics.html" rel="alternate" type="text/html" title="Arithmetic Basics" /><published>2021-04-27T00:00:00+00:00</published><updated>2021-04-27T00:00:00+00:00</updated><id>grimpoteuthis-314.github.io/Grimpo/arithmetic-basics</id><content type="html" xml:base="grimpoteuthis-314.github.io/Grimpo/arithmetic-basics.html">&lt;p&gt;Conceptos preliminares.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210427/AritmeticaBasicConcepts01.png&quot; alt=&quot;Compilation Process&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210427/AritmeticaBasicConcepts02.png&quot; alt=&quot;Compilation Process&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210427/AritmeticaBasicConcepts03.png&quot; alt=&quot;Compilation Process&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;fuentes&quot;&gt;&lt;strong&gt;Fuentes&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ARITMÉTICA, Dr. Aurelio Baldor, (1985-1986).&lt;/li&gt;
+  &lt;li&gt;ARITMÉTICA 4a edición, Dr. Aurelio Baldor, (2020).&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>grim</name></author><category term="nature" /><summary type="html">Conceptos preliminares.</summary></entry><entry><title type="html">Introduction C</title><link href="grimpoteuthis-314.github.io/Grimpo/introduction-c.html" rel="alternate" type="text/html" title="Introduction C" /><published>2021-04-18T00:00:00+00:00</published><updated>2021-04-18T00:00:00+00:00</updated><id>grimpoteuthis-314.github.io/Grimpo/introduction-c</id><content type="html" xml:base="grimpoteuthis-314.github.io/Grimpo/introduction-c.html">&lt;p&gt;Este lenguaje de alto nivel fue desarrollado inicialmente en Bell Labs de AT&amp;amp;T por Dennish Ritchie entre 1969 y 1973, la justificación de este lenguaje se encuentra íntimamente ligada con el sistema operativo UNIX (escrito en ensamblador), ya que C pasaría a reescribir este sistema operativo.&lt;/p&gt;
+
+&lt;h2 id=&quot;conceptos-básicos&quot;&gt;Conceptos Básicos&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;— — &lt;strong&gt;Creación de un programa&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Es necesario definir superficialmente los siguientes conceptos:
+Un compilador es un programa que se encarga de traducir el código fuente de un lenguaje a otro, para lograr su objetivo es necesario un trabajo en conjunto con otros programas.
+Se describe el siguiente caso, el compilador recibe el &lt;strong&gt;código fuente&lt;/strong&gt; de un lenguaje de alto nivel y lo traduce a otro de bajo nivel (código ensamblador o máquina), el resultado es llamado &lt;strong&gt;objeto&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;— &lt;strong&gt;Proceso de Compilación C&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;El archivo que contiene el código fuente escrito en C deberá poseer la extensión &lt;strong&gt;*.c&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Preprocesador (Preprocessor): realizan tareas como la inclusión de ficheros, sustituciones de macros y eliminación de comentarios, produciendo la entrada para el compilador; el preprocesador genera un archivo con extensión &lt;strong&gt;*.i&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Compilador: Este genera un archivo en lenguaje ensamblador con extensión &lt;strong&gt;*.s&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ensamblador (Assembler/Assembly): Genera el objeto que será utilizado por el linker con extensión &lt;strong&gt;*.o&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enlazador (Linker): Recibe el objeto (&lt;strong&gt;.o&lt;/strong&gt;) generado y construye el objeto final enlazando las cabeceras (&lt;strong&gt;.h&lt;/strong&gt;) y librerías (&lt;strong&gt;.a&lt;/strong&gt;) esenciales para la ejecución del programa. El ejecutable tendrá la extensión &lt;strong&gt;*.out&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210418/compilation_process.png&quot; alt=&quot;Compilation Process&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;— &lt;strong&gt;Estructura general de programa en C&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Directivas del preprocesador, ejemplo:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#include &amp;lt;xx.h&amp;gt;&lt;/code&gt;, indica las cabeceras donde se encuentran identificadores, macros, constantes, variables globales, prototipos de funciones, entre otros.&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#define&lt;/code&gt;, declarar identificadores de constantes o macros.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Declaracion de variables globales.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Declaracion de prototipos de funciones.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Funcion main.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Funciones de prototipos definidos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se crea un programa básico con el siguiente nombre: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;basic.c&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210418/Cbasis1.png&quot; alt=&quot;C basic program&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se compila el codigo fuente, en este caso se específica el nombre del ejecutable: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bas&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210418/Cbasis2.png&quot; alt=&quot;gcc compilation&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Se ejecuta el archivo generado.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210418/Cbasis3.png&quot; alt=&quot;execution&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;— &lt;strong&gt;Datos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Las &lt;strong&gt;constantes&lt;/strong&gt; se refieren a valores fijos e inalterables por el programa, se pueden
+categorizar de la siguiente forma:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Constantes Enteras:&lt;/strong&gt; Números con valores enteros, estos permiten su escritura en
+tres sistemas numéricos:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Decimales:&lt;/strong&gt; Combinación de dígitos existentes en el conjunto de &lt;strong&gt;0&lt;/strong&gt; a &lt;strong&gt;9&lt;/strong&gt;, si consta
+ de dos o más dígitos, el primero debe ser distinto de &lt;strong&gt;cero&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Octal:&lt;/strong&gt;  Combinación de dígitos del conjunto &lt;strong&gt;0&lt;/strong&gt; a &lt;strong&gt;7&lt;/strong&gt;, el primer dígito debe ser el &lt;strong&gt;0&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Hexadecimal:&lt;/strong&gt; Combinación de dígitos del conjunto de &lt;strong&gt;0&lt;/strong&gt; a &lt;strong&gt;9&lt;/strong&gt; y de &lt;strong&gt;a&lt;/strong&gt; a &lt;strong&gt;f&lt;/strong&gt; (mayuscula o minuscula), debe comenzar con &lt;strong&gt;0x&lt;/strong&gt; o &lt;strong&gt;0X&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Constantes con punto flotante:&lt;/strong&gt; Números decimales con punto decimal y/o con exponente.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Constantes de carácter:&lt;/strong&gt; Equivale a un solo carácter entre comillas simples, cada carácter es equivalente a un número entero descrito en el código ASCII.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Constantes de cadenas de caracteres:&lt;/strong&gt; N número de caracteres consecutivos entre
+comillas dobles.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Las constantes se pueden declarar con el modificador &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;const&lt;/code&gt; o utilizando la directiva
+de compilación &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#define&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210418/const.png&quot; alt=&quot;const&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Al final de cada constante de cadena de caracteres el compilador inserta un caracter nulo, este puede ser representado con la secuencia de escape (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\0&lt;/code&gt;), a partir
+de esto podemos identificar que el carácter &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;'H'&lt;/code&gt; es diferente de la cadena de caracteres &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&quot;H&quot;&lt;/code&gt;, ya que esta última posee el carácter nulo al final (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&quot;H\0&quot;&lt;/code&gt;).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Variables&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Estas se declaran de la siguiente forma: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tipo_dato nombre_variable;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Se inicializan asignando un valor que corresponda al tipo de dato: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tipo_dato nombre_variable = valor;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tipos de datos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Los tipos fundamentales que el lenguaje &lt;em&gt;C&lt;/em&gt; ofrece se encuentran clasificados de la siguiente forma:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Tipos enteros:&lt;/strong&gt; Estos son utilizados para representar subconjuntos de números naturales y enteros.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;char&lt;/code&gt;:&lt;/strong&gt; Número entero de 8 bits, rango [-128, 127]. También es utilizado para representar caracteres de acuerdo al código ASCII.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;int&lt;/code&gt;:&lt;/strong&gt; Número entero de 16 o 32 bits (depende del procesador).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;img src=&quot;assets/images/20210418/TiposDatosEnteros.png&quot; alt=&quot;Integer Data Types&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;assets/images/20210418/TiposDatosEnterosEx.png&quot; alt=&quot;Integer Data Types Execution&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tipos reales:&lt;/strong&gt; Permiten representar subconjuntos de números racionales.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;float&lt;/code&gt;:&lt;/strong&gt; Número con punto flotante, el tamaño es de 32 bits o 4 bytes.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;double&lt;/code&gt;:&lt;/strong&gt; Número con punto flotante, el tamaño es de 64 bits o 8 bytes.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;img src=&quot;assets/images/20210418/TiposDatosReales.png&quot; alt=&quot;real Data Types&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;assets/images/20210418/TiposDatosRealesEx.png&quot; alt=&quot;real Data Types Execution&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tipo &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;void&lt;/code&gt;:&lt;/strong&gt; Es empleado para declarar la ausencia de valores en el retorno de una función o para declarar punteros genéricos.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;assets/images/20210418/void.png&quot; alt=&quot;void&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Modificadores&lt;/strong&gt;
+Los modificadores permiten cambiar el tamaño de los tipos de datos numéricos.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;unsigned&lt;/code&gt;:&lt;/strong&gt; Representa números naturales (Mayor o igual a cero).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;signed&lt;/code&gt;:&lt;/strong&gt; Representa tanto números positivos como negativos, comportamiento por defecto.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;long&lt;/code&gt;:&lt;/strong&gt; Permite ampliar el tamaño en bits.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;short&lt;/code&gt;:&lt;/strong&gt; Indica un tamaño de bits menor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210418/bytesSize.png&quot; alt=&quot;Bytes Sizes Data Types&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210418/bytesSizeEx.png&quot; alt=&quot;Bytes Sizes Data Types Execution&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;tener-en-cuenta&quot;&gt;Tener en cuenta&lt;/h3&gt;
+
+&lt;p&gt;La mejor practica al momento de crear la función &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;main&lt;/code&gt; es utilizando como tipo de retorno &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;int&lt;/code&gt; y retornando &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0&lt;/code&gt; para indicar que ha finalizado correctamente. La principal razón es para evitar problemas con algún compilador.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210418/bestpracticemain.png&quot; alt=&quot;main function&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ejemplo de calculadora basica:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20210418/basicCalculator.png&quot; alt=&quot;basic calculator&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;fuentes&quot;&gt;&lt;strong&gt;Fuentes&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fundamentos del sistema operativo UNIX, Jose M. Diaz - Rocio Muñoz, (2008).&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)&quot;&gt;C Lenguaje de programación&lt;/a&gt;&lt;/em&gt;, Wikipedia.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Preprocessor&quot;&gt;Preprocessor&lt;/a&gt;&lt;/em&gt;, Wikipedia.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf&quot;&gt;Lenguaje C&lt;/a&gt;&lt;/em&gt;, Enrique Vicente Bonet Esteban.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://blog.r2d2rigo.es/2009/03/10/uso-de-la-funcin-main-en-cc/&quot;&gt;Uso de la funcion “main” en C/C++&lt;/a&gt;&lt;/em&gt;, Rodrigo Diaz, (2009).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Última modificación: &lt;em&gt;08 May 2021&lt;/em&gt;&lt;/p&gt;</content><author><name>grim</name></author><category term="tech" /><summary type="html">Este lenguaje de alto nivel fue desarrollado inicialmente en Bell Labs de AT&amp;amp;T por Dennish Ritchie entre 1969 y 1973, la justificación de este lenguaje se encuentra íntimamente ligada con el sistema operativo UNIX (escrito en ensamblador), ya que C pasaría a reescribir este sistema operativo.</summary></entry></feed>

@@ -1,0 +1,410 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Javascript Basics</title>
+		<link rel="icon" type="image/x-icon" href="assets/images/octopus.png" />
+		<link rel="stylesheet" href="assets/css/styles.css">
+		<link type="application/atom+xml" rel="alternate" href="grimpoteuthis-314.github.io/Grimpo/feed.xml" />
+		<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Javascript Basics</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="Javascript Basics" />
+<meta name="author" content="grim" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="JavaScript fue creado en 1995 por Brendan Eich cuando era ingeniero en Netscape, se lanzó por primera vez en Netscape 2 a principios de 1996, ese mismo año resultó la primera edición estándar de ECMAScript; en 1999 se actualizó a la edición 3, la edición 5 de ECMAScript fue publicada en 2009 y la edición 6 fue publicada en junio de 2015." />
+<meta property="og:description" content="JavaScript fue creado en 1995 por Brendan Eich cuando era ingeniero en Netscape, se lanzó por primera vez en Netscape 2 a principios de 1996, ese mismo año resultó la primera edición estándar de ECMAScript; en 1999 se actualizó a la edición 3, la edición 5 de ECMAScript fue publicada en 2009 y la edición 6 fue publicada en junio de 2015." />
+<link rel="canonical" href="grimpoteuthis-314.github.io/Grimpo/javascript-basics.html" />
+<meta property="og:url" content="grimpoteuthis-314.github.io/Grimpo/javascript-basics.html" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-05-17T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Javascript Basics" />
+<script type="application/ld+json">
+{"description":"JavaScript fue creado en 1995 por Brendan Eich cuando era ingeniero en Netscape, se lanzó por primera vez en Netscape 2 a principios de 1996, ese mismo año resultó la primera edición estándar de ECMAScript; en 1999 se actualizó a la edición 3, la edición 5 de ECMAScript fue publicada en 2009 y la edición 6 fue publicada en junio de 2015.","url":"grimpoteuthis-314.github.io/Grimpo/javascript-basics.html","@type":"BlogPosting","headline":"Javascript Basics","dateModified":"2021-05-17T00:00:00+00:00","datePublished":"2021-05-17T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"grimpoteuthis-314.github.io/Grimpo/javascript-basics.html"},"author":{"@type":"Person","name":"grim"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+	</head>
+	<body>
+		<div class="na">
+			<nav class="m">
+	
+	<a href="/Grimpo/" > Home</a>
+	
+	<a href="/Grimpo/about" > About</a>
+	
+</nav>
+
+
+		</div>
+		<div class="ttc">
+			<span id="g1"><h1>G</h1></span>
+			<span id="r1"><h1>R</h1></span>
+			<span id="i1"><h1>I</h1></span>
+			<span id="m1"><h1>M</h1></span>
+			<span id="p1"><h1>P</h1></span>
+			<span id="o1"><h1>O</h1></span>
+		</div>
+		<div class="ht">
+			<hr class="fh">
+			<p class="t2">SOPHIA</h1>
+			<p class="ito">
+				<p>*</p>
+				<i>Se presentan ante ti memorias de un desconocido.</i>
+			</p>
+		</div>
+		<div class="c">
+		</div>
+		<div class="bc">
+			<div class="ica">
+				<div class="ctm">
+	<h3>CATEGORIES</h3>
+</div>
+<nav class="mc">
+	
+	<a href="/Grimpo/tec"  id="amc">Technology</a>
+	<hr>
+	
+	<a href="/Grimpo/nat"  id="amc">Nature</a>
+	<hr>
+	
+	<a href="/Grimpo/art"  id="amc">Art</a>
+	<hr>
+	
+	<a href="/Grimpo/phi"  id="amc">Philosophy</a>
+	<hr>
+	
+	<a href="/Grimpo/quo"  id="amc">Quotes</a>
+	<hr>
+	
+	<a href="/Grimpo/tho"  id="amc">Thoughts</a>
+	<hr>
+	
+</nav>
+
+			</div>
+			<div class="cd">
+				<h1>Javascript Basics</h1>
+
+<p>
+  17 May 2021
+  
+  
+    - <i><a href="/Grimpo/grim.html">Grimpoteuthis</a></i>
+  
+</p>
+<br>
+<p>JavaScript fue creado en 1995 por Brendan Eich cuando era ingeniero en Netscape, se lanzó por primera vez en Netscape 2 a principios de 1996, ese mismo año resultó la primera edición estándar de ECMAScript; en 1999 se actualizó a la edición 3, la edición 5 de ECMAScript fue publicada en 2009 y la edición 6 fue publicada en junio de 2015.</p>
+
+<p>El lenguaje JavaScript no posee el concepto de entrada o salida, está diseñado para ser ejecutado como lenguaje de scripting en un entorno hospedado y depende de los mecanismos que este disponga para comunicarse con el exterior, el entorno más común es el navegador pero no es el único que existe.</p>
+
+<p>JavaScript es un lenguaje dinámico multiparadigma con tipos y operadores, objetos estándar integrados y métodos. Admite la programación orientada a objetos con prototipos de objetos, también admite programación funcional, las funciones se pueden almacenar en variables y ser pasadas como un objeto.</p>
+
+<hr />
+
+<h2 id="tipos-de-datos">Tipos de datos</h2>
+
+<ol>
+  <li>
+    <p><strong>Números</strong></p>
+
+    <p>Valores IEEE 754 de formato de 64 bits de doble precisión, por lo que no existen números enteros a excepción de <code class="language-plaintext highlighter-rouge">BigInt</code>. Un entero aparente resultaría ser un float aunque en la práctica, los valores enteros se tratarán como enteros de 32 bits.</p>
+
+    <ul>
+      <li>
+        <p>Se admiten operadores estándar de aritmética, además existe un objeto incorporado llamado <code class="language-plaintext highlighter-rouge">Math</code> que proporciona funciones matemáticas avanzadas y constantes.</p>
+      </li>
+      <li>
+        <p>La función <code class="language-plaintext highlighter-rouge">parseInt(string, base)</code> permite convertir una cadena a número entero especificando su base, además se puede convertir a hexadecimal de la siguiente forma <code class="language-plaintext highlighter-rouge">parseInt('0x10')</code> y a octal anteponiendo el <code class="language-plaintext highlighter-rouge">0</code> en lugar del <code class="language-plaintext highlighter-rouge">0x</code> pero esto solo funciona en navegadores antiguos (2013 o menor).</p>
+      </li>
+      <li>
+        <p>En el caso de la función <code class="language-plaintext highlighter-rouge">parseFloat()</code>, este siempre usa base <em>10</em>.</p>
+      </li>
+      <li>
+        <p>Se puede convertir valores a números utilizando el operador unario <code class="language-plaintext highlighter-rouge">+</code>, ejemplo:
+ <code class="language-plaintext highlighter-rouge">+ '42';</code> esto sería equivalente a <code class="language-plaintext highlighter-rouge">42</code>, <code class="language-plaintext highlighter-rouge">+ '0x10';</code> igual a 16.</p>
+      </li>
+      <li>
+        <p>Si la cadena no es numérica devuelve un valor especial <code class="language-plaintext highlighter-rouge">NaN</code> (“Not a Number”).</p>
+      </li>
+      <li>
+        <p>Si <code class="language-plaintext highlighter-rouge">NaN</code> es utilizado como operando en una operación matemática el resultado será <code class="language-plaintext highlighter-rouge">NaN</code>.</p>
+      </li>
+      <li>
+        <p>Existe la función <code class="language-plaintext highlighter-rouge">isNaN()</code> para probar si un valor es <code class="language-plaintext highlighter-rouge">NaN</code>.</p>
+      </li>
+      <li>
+        <p>JavaScript también cuenta con los valores especiales <code class="language-plaintext highlighter-rouge">Infinity</code> e <code class="language-plaintext highlighter-rouge">-Infinity</code> y pueden ser probados con la función <code class="language-plaintext highlighter-rouge">isFinite()</code>, ejemplo: <code class="language-plaintext highlighter-rouge">1 / 0;</code> equivale a <code class="language-plaintext highlighter-rouge">Infinity</code>, <code class="language-plaintext highlighter-rouge">-1 / 0;</code> equivale a <code class="language-plaintext highlighter-rouge">-Infinity</code>; <code class="language-plaintext highlighter-rouge">isFinite(1/0);</code> equivale a <code class="language-plaintext highlighter-rouge">false</code>.</p>
+      </li>
+      <li>
+        <p>Las funciones <code class="language-plaintext highlighter-rouge">parseInt()</code> y <code class="language-plaintext highlighter-rouge">parseFloat()</code> analizan una cadena y devuelve hasta que alcancen un carácter no válido para el formato de número; el operador <code class="language-plaintext highlighter-rouge">'+'</code> al encontrar un carácter no válido devuelve <code class="language-plaintext highlighter-rouge">NaN</code>.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Cadenas de texto</strong></p>
+
+    <p>Son secuencias de caracteres Unicode, secuencias de unidades de código UTF-16; cada unidad de código está representada por un número de 16 bits. Cada carácter Unicode está representado por 1 o 2 unidades de código.</p>
+
+    <ul>
+      <li>
+        <p>La propiedad <code class="language-plaintext highlighter-rouge">lenght</code> permite acceder a la longitud de la cadena. Por ejemplo: <code class="language-plaintext highlighter-rouge">'hello'.lenght;</code> equivale a 5.</p>
+      </li>
+      <li>
+        <p>También tienen métodos para manipular las cadenas, ejemplo: <code class="language-plaintext highlighter-rouge">'hello'.charAt(0);</code> devuelve <code class="language-plaintext highlighter-rouge">"h"</code>, <code class="language-plaintext highlighter-rouge">'hello, world'.replace('world', 'mars');</code> retorna <code class="language-plaintext highlighter-rouge">"hello, mars"</code>, entre otros.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Booleanos</strong></p>
+
+    <p>Los valores que este tipo permite son <code class="language-plaintext highlighter-rouge">true</code> y <code class="language-plaintext highlighter-rouge">false</code>, aunque cualquier valor puede ser convertido a booleano teniendo en cuenta lo siguiente:</p>
+
+    <ol>
+      <li><code class="language-plaintext highlighter-rouge">false</code>, <code class="language-plaintext highlighter-rouge">0</code>, cadenas vacias <code class="language-plaintext highlighter-rouge">("")</code>, <code class="language-plaintext highlighter-rouge">NaN</code>, <code class="language-plaintext highlighter-rouge">null</code> y <code class="language-plaintext highlighter-rouge">undefined</code> se convierten a <code class="language-plaintext highlighter-rouge">false</code>.</li>
+      <li>Cualquier otro valor se convierte en <code class="language-plaintext highlighter-rouge">true</code>.</li>
+    </ol>
+
+    <ul>
+      <li>Se puede realizar una conversión explícita con la función <code class="language-plaintext highlighter-rouge">Boolean();</code>.</li>
+    </ul>
+  </li>
+  <li><strong>Objetos</strong>
+    <ul>
+      <li><strong>Funciones</strong></li>
+      <li><strong>Array</strong></li>
+      <li><strong>Date</strong></li>
+      <li><strong>RegExp</strong></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>null</strong></p>
+
+    <p>Representa intencionalmente un valor nulo o “vacio”.</p>
+  </li>
+  <li>
+    <p><strong>undefined</strong></p>
+
+    <p>Indica una variable que aún no se le ha asignado un valor o no iniciada. undefined es una constante.</p>
+  </li>
+  <li><strong>Simbolos</strong></li>
+</ol>
+
+<hr />
+
+<h2 id="variables">Variables</h2>
+
+<p>Existen tres tipos de palabras claves para declarar variables: <code class="language-plaintext highlighter-rouge">let</code>, <code class="language-plaintext highlighter-rouge">const</code> o <code class="language-plaintext highlighter-rouge">var</code>.</p>
+
+<ol>
+  <li>
+    <p><strong>let:</strong> permite declarar variables a nivel de bloque, la variable solo estará disponible en el bloque donde está incluida.</p>
+  </li>
+  <li>
+    <p><strong>const:</strong> permite declarar constantes (variables cuyos valores no cambiarán), la variable está disponible en el bloque donde se declara.</p>
+  </li>
+  <li>
+    <p><strong>var:</strong> No posee restricciones en su uso, ya que inicialmente era la única forma de declarar variables, la variable está disponible en la función donde se declara.</p>
+  </li>
+</ol>
+
+<ul>
+  <li>
+    <p>Una variable que se declara sin asignación de valor, es de tipo <code class="language-plaintext highlighter-rouge">undefined</code>.</p>
+  </li>
+  <li>
+    <p>En JavaScript los bloques no tienen alcance, solo las funciones.</p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="operadores">Operadores</h2>
+
+<ul>
+  <li>
+    <p>Operadores numéricos: <code class="language-plaintext highlighter-rouge">+</code>, <code class="language-plaintext highlighter-rouge">-</code>, <code class="language-plaintext highlighter-rouge">*</code>, <code class="language-plaintext highlighter-rouge">/</code> y <code class="language-plaintext highlighter-rouge">%</code>.</p>
+  </li>
+  <li>
+    <p>Operador de asignación <code class="language-plaintext highlighter-rouge">=</code> y operadores de asignación compuesta como: <code class="language-plaintext highlighter-rouge">+=</code> y <code class="language-plaintext highlighter-rouge">-=</code>.</p>
+  </li>
+  <li>
+    <p>Operador de incremento <code class="language-plaintext highlighter-rouge">++</code> y decremento <code class="language-plaintext highlighter-rouge">--</code>, pueden ser utilizados como operadores prefijos o sufijos.</p>
+  </li>
+  <li>
+    <p>El operador <code class="language-plaintext highlighter-rouge">+</code> también permite concatenar cadenas aunque si se concatena un número a una cadena, este se convertirá a string.</p>
+  </li>
+  <li>
+    <p>Operadores de comparación: <code class="language-plaintext highlighter-rouge">&lt;</code>, <code class="language-plaintext highlighter-rouge">&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;=</code> y <code class="language-plaintext highlighter-rouge">&gt;=</code>; funcionan tanto para cadenas como para números. En la igualdad encontramos dos operadores: <code class="language-plaintext highlighter-rouge">===</code> permite realizar una comparación estricta y solo es verdadera si los operandos son del mismo tipo y sus contenidos coinciden, por otro lado, <code class="language-plaintext highlighter-rouge">==</code> permite una comparación abstracta donde convierte los operandos al mismo tipo (realiza coerción) antes de comparar sus contenidos. También cuenta con operadores <code class="language-plaintext highlighter-rouge">!=</code> y <code class="language-plaintext highlighter-rouge">!==</code>.</p>
+  </li>
+  <li>
+    <p>Operadores lógicos <code class="language-plaintext highlighter-rouge">&amp;&amp;</code> y <code class="language-plaintext highlighter-rouge">||</code>.</p>
+  </li>
+  <li>
+    <p>Operador ternario <code class="language-plaintext highlighter-rouge">?</code>, ejemplo: <code class="language-plaintext highlighter-rouge">var allowed = (age &gt; 18) ? 'yes' : 'no';</code>.</p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="estructuras-de-control">Estructuras de control</h2>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">if () {} else if () {} else {}</code></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">switch () {case 1: instruction break; default: instruction;}</code>, es posible tener expresiones tanto en el switch como en los casos.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">while (true) {}</code></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">do {} while ()</code></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">for (var i = 0; i &lt; 5; i++) {}</code></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">for (let value of array) {}</code></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">for (let property in object) {}</code></p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="objetos">Objetos</h2>
+
+<p>Son simples colecciones de pares nombre-valor, la parte del nombre es una cadena y el valor puede ser cualquier valor de JavaScript, incluyendo más objetos.</p>
+
+<ul>
+  <li>
+    <p>Se puede crear un objeto vacío de dos formas: <code class="language-plaintext highlighter-rouge">var obj = new Object();</code> y <code class="language-plaintext highlighter-rouge">var obj = {};</code>. La segunda se llama sintaxis literal de objeto y es más conveniente, esta sintaxis también es el núcleo del formato <em>JSON</em>.</p>
+  </li>
+  <li>
+    <p>Acceso a los atributos: <code class="language-plaintext highlighter-rouge">obj.atributo;</code> o <code class="language-plaintext highlighter-rouge">obj['atributo'];</code></p>
+  </li>
+  <li>
+    <p>Se puede crear un prototipo de objeto y una instancia de la siguiente manera: <code class="language-plaintext highlighter-rouge">function person(name) {this.name = name;}</code>, para definir la instancia u objeto <code class="language-plaintext highlighter-rouge">var you = new Person('you');</code>.</p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="arreglos">Arreglos</h2>
+
+<p>Son un tipo especial de objeto que se acceden utilizando la sintaxis <code class="language-plaintext highlighter-rouge">[]</code>, tienen la propiedad <code class="language-plaintext highlighter-rouge">lenght</code> que siempre es uno más que el índice más alto del arreglo.</p>
+
+<ul>
+  <li>
+    <p>Se puede crear de dos formas: <code class="language-plaintext highlighter-rouge">var a = new Array(); a[0] = 'dog';</code>, o utilizando una notación literal <code class="language-plaintext highlighter-rouge">var a = ['dog'];</code>. Al verificar la longitud <code class="language-plaintext highlighter-rouge">a.lenght;</code> obtenemos 1.</p>
+  </li>
+  <li>
+    <p>Si <code class="language-plaintext highlighter-rouge">a[100] = 'rabbit';</code>, al obtener la longitud <code class="language-plaintext highlighter-rouge">a.lenght;</code> obtenemos 101. Si se consulta un índice del arreglo que no existe se obtiene <code class="language-plaintext highlighter-rouge">undefined</code>.</p>
+  </li>
+  <li>
+    <p>Se puede recorrer un arreglo con <code class="language-plaintext highlighter-rouge">arr.forEach()</code> de la siguiente forma: <code class="language-plaintext highlighter-rouge">['dog', 'cat', 'hen'].forEach(function(currentValue, index, array) {});</code>.</p>
+  </li>
+  <li>
+    <p>Los arreglos poseen varios métodos para su manipulación.</p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="funciones">Funciones</h2>
+
+<p>Una función puede tomar 0 o más parámetros con nombre, el cuerpo de la función puede contener tantas declaraciones sea necesario y permite declarar variables que son locales para esa función. La declaración <code class="language-plaintext highlighter-rouge">return</code> se usa para devolver un valor, terminando la función; si no se utiliza <code class="language-plaintext highlighter-rouge">return</code> o se utiliza vacía sin valor, devuelve <code class="language-plaintext highlighter-rouge">undefined</code>.</p>
+
+<ul>
+  <li>
+    <p>Las funciones tienen acceso a una variable adicional dentro de su cuerpo llamada <code class="language-plaintext highlighter-rouge">arguments</code>, es un objeto tipo arreglo que contiene los valores pasados a la función.</p>
+  </li>
+  <li>
+    <p>La sintaxis de los parámetros rest permiten representar un número indefinido de argumentos como un array <code class="language-plaintext highlighter-rouge">...variable</code>, el parámetro rest captura todos los argumentos después de su declaración.</p>
+  </li>
+  <li>
+    <p>También está disponible un método para especificar un arreglo arbitrario de argumentos como parámetros de una función <code class="language-plaintext highlighter-rouge">apply()</code>, ejemplo: <code class="language-plaintext highlighter-rouge">fun.apply(null, [2, 3, 4, 5]);</code>. Se puede obtener el mismo resultado con el operador de propagación en la llamada de la función <code class="language-plaintext highlighter-rouge">fun(...numbers);</code>.</p>
+  </li>
+  <li>
+    <p>Es posible crear funciones anónimas, permiten colocar la definición de una función completa en cualquier lugar donde normalmente se colocará una expresión.</p>
+  </li>
+  <li>
+    <p>JavaScript permite llamar funciones de forma recursiva, siendo de gran utilidad en la manipulación de estructuras de árbol, como el DOM.</p>
+  </li>
+  <li>
+    <p>Para llamar de forma recursiva una función anónima se utilizan las expresiones de función, las cuales son ejecutadas inmediatamente al ser definidas.</p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="objetos-personalizados">Objetos personalizados</h2>
+
+<p>JavaScript es un lenguaje basado en prototipos que no contiene declaración de clase, en su lugar, JavaScript usa funciones como clases.</p>
+
+<ul>
+  <li>Se enlazan funciones a un objeto, (Las funciones son objetos).</li>
+</ul>
+
+<p><img src="assets/images/20210517/EnlaceFuncionObjeto.png" alt="Prototipo" /></p>
+
+<ul>
+  <li>
+    <p>Si <code class="language-plaintext highlighter-rouge">this</code> es usada dentro de una función se refiere al objeto actual. Si una función es llamada usando notación de puntos o corchetes, ese objeto se convierte en <code class="language-plaintext highlighter-rouge">this</code>, de lo contrario, <code class="language-plaintext highlighter-rouge">this</code> será el objeto global.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">new</code> crea un nuevo objeto vacío y luego llama a la función especificada, con <code class="language-plaintext highlighter-rouge">this</code> configurado para ese nuevo objeto. Las funciones diseñadas para ser llamadas con <code class="language-plaintext highlighter-rouge">new</code> se denominan funciones constructoras.</p>
+  </li>
+  <li>
+    <p>Una forma de mejorar el código anterior es asignando referencias de los objetos de función dentro del constructor</p>
+  </li>
+  <li>
+    <p>Otra forma es utilizar el objeto compartido <code class="language-plaintext highlighter-rouge">Object.prototype</code>, este forma parte de una cadena de búsqueda (“cadena de prototipos”) todo lo asignado aquí pasa a estar disponible para todas las instancias de ese constructor a través del objeto <code class="language-plaintext highlighter-rouge">this</code>.</p>
+  </li>
+</ul>
+
+<p><img src="assets/images/20210517/prototype.png" alt="Prototype" /></p>
+
+<hr />
+
+<h2 id="cierres">Cierres</h2>
+
+<p><img src="assets/images/20210517/cierres.png" alt="Cierres" /></p>
+
+<p>Cuando JavaScript ejecuta una función, se crea un objeto <code class="language-plaintext highlighter-rouge">scope</code> para contener las variables locales creadas dentro de la función, se inicia con los parámetros de función. Se crea un objeto de alcance nuevo cada vez que la función se comienza a ejecutar y no se puede acceder directamente a estos objetos a través del código, ni iterar sobre las propiedades del objeto <code class="language-plaintext highlighter-rouge">scope</code> actual.</p>
+
+<ul>
+  <li>
+    <p>Normalmente, el recolector de basura limpia el objeto pero en este caso la función devuelta mantienen una referencia a ese objeto de ámbito, el objeto <code class="language-plaintext highlighter-rouge">scope</code> no será recolectado hasta que no haya más referencias al objeto función.</p>
+  </li>
+  <li>
+    <p>Estos objetos forman una cadena llamada “cadena de ámbito”.</p>
+  </li>
+  <li>
+    <p>Los cierres son útiles para guardar estados.</p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="fuentes"><strong>Fuentes</strong></h2>
+
+<ul>
+  <li><em><a href="https://developer.mozilla.org/es/docs/Web/JavaScript/A_re-introduction_to_JavaScript">Reintroducción a JavaScript</a></em>, MDN Web Docs.</li>
+  <li><em><a href="https://developer.mozilla.org/es/docs/conflicting/Web/JavaScript/Reference/Operators_5a0acbbb60ea37d0fdc52e3bd4c3fae8">Operadores de Comparación</a></em>, MDN Web Docs.</li>
+  <li><em><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators">Expressions and operators</a></em>, MDN Web Docs.</li>
+  <li><em><a href="https://developer.mozilla.org/es/docs/Glossary/IIFE">IIFE: Expresión de funcion ejecutada inmediatamente</a></em>, MDN Web Docs.</li>
+</ul>
+
+<hr />
+
+<p>Última modificación: <em>20 May 2021</em></p>
+
+
+			</div>
+		</div>
+	</body>
+</html>

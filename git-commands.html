@@ -1,0 +1,193 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Git Commands</title>
+		<link rel="icon" type="image/x-icon" href="assets/images/octopus.png" />
+		<link rel="stylesheet" href="assets/css/styles.css">
+		<link type="application/atom+xml" rel="alternate" href="grimpoteuthis-314.github.io/Grimpo/feed.xml" />
+		<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Git Commands</title>
+<meta name="generator" content="Jekyll v4.1.1" />
+<meta property="og:title" content="Git Commands" />
+<meta name="author" content="grim" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Lista de comandos Git" />
+<meta property="og:description" content="Lista de comandos Git" />
+<link rel="canonical" href="grimpoteuthis-314.github.io/Grimpo/git-commands.html" />
+<meta property="og:url" content="grimpoteuthis-314.github.io/Grimpo/git-commands.html" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-05-27T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Git Commands" />
+<script type="application/ld+json">
+{"description":"Lista de comandos Git","url":"grimpoteuthis-314.github.io/Grimpo/git-commands.html","@type":"BlogPosting","headline":"Git Commands","dateModified":"2021-05-27T00:00:00+00:00","datePublished":"2021-05-27T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"grimpoteuthis-314.github.io/Grimpo/git-commands.html"},"author":{"@type":"Person","name":"grim"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+	</head>
+	<body>
+		<div class="na">
+			<nav class="m">
+	
+	<a href="/Grimpo/" > Home</a>
+	
+	<a href="/Grimpo/about" > About</a>
+	
+</nav>
+
+
+		</div>
+		<div class="ttc">
+			<span id="g1"><h1>G</h1></span>
+			<span id="r1"><h1>R</h1></span>
+			<span id="i1"><h1>I</h1></span>
+			<span id="m1"><h1>M</h1></span>
+			<span id="p1"><h1>P</h1></span>
+			<span id="o1"><h1>O</h1></span>
+		</div>
+		<div class="ht">
+			<hr class="fh">
+			<p class="t2">SOPHIA</h1>
+			<p class="ito">
+				<p>*</p>
+				<i>Se presentan ante ti memorias de un desconocido.</i>
+			</p>
+		</div>
+		<div class="c">
+		</div>
+		<div class="bc">
+			<div class="ica">
+				<div class="ctm">
+	<h3>CATEGORIES</h3>
+</div>
+<nav class="mc">
+	
+	<a href="/Grimpo/tec"  id="amc">Technology</a>
+	<hr>
+	
+	<a href="/Grimpo/nat"  id="amc">Nature</a>
+	<hr>
+	
+	<a href="/Grimpo/art"  id="amc">Art</a>
+	<hr>
+	
+	<a href="/Grimpo/phi"  id="amc">Philosophy</a>
+	<hr>
+	
+	<a href="/Grimpo/quo"  id="amc">Quotes</a>
+	<hr>
+	
+	<a href="/Grimpo/tho"  id="amc">Thoughts</a>
+	<hr>
+	
+</nav>
+
+			</div>
+			<div class="cd">
+				<h1>Git Commands</h1>
+
+<p>
+  27 May 2021
+  
+  
+    - <i><a href="/Grimpo/grim.html">Grimpoteuthis</a></i>
+  
+</p>
+<br>
+<p>Lista de comandos Git</p>
+
+<hr />
+
+<h4 id="default-values">[Default values]</h4>
+
+<p><code class="language-plaintext highlighter-rouge">remote = origin</code></p>
+
+<hr />
+
+<h4 id="config">[Config]</h4>
+
+<p><code class="language-plaintext highlighter-rouge">git config --global user.name ""</code> : Configurar nombre del autor</p>
+
+<p><code class="language-plaintext highlighter-rouge">git config --global user.email ""</code> : Configurar correo del autor</p>
+
+<p><code class="language-plaintext highlighter-rouge">git config --global credential.helper cache</code> : Guardar creedenciales en cache (15 min)</p>
+
+<p><code class="language-plaintext highlighter-rouge">git clone [path | url]</code> : Clonar repositorio local o remoto</p>
+
+<p><code class="language-plaintext highlighter-rouge">git init</code> : inicializar repositorio local</p>
+
+<hr />
+
+<h4 id="basics">[Basics]</h4>
+
+<p><code class="language-plaintext highlighter-rouge">git add *</code> : Anadir al staging area</p>
+
+<p><code class="language-plaintext highlighter-rouge">git commit -m ""</code> : Guardar cambios en el repositorio local</p>
+
+<p><code class="language-plaintext highlighter-rouge">git commit -am ""</code> : Add y Commit</p>
+
+<p><code class="language-plaintext highlighter-rouge">git commit --amend</code> : Editar descripcion del commit realizado</p>
+
+<p><code class="language-plaintext highlighter-rouge">git remote add [remote] [url]</code> : Agregar repositorio remoto</p>
+
+<p><code class="language-plaintext highlighter-rouge">git remote -v</code> : lista de los repositorios remotos</p>
+
+<p><code class="language-plaintext highlighter-rouge">git push</code> : Enviar cambios al repositorio remoto</p>
+
+<p><code class="language-plaintext highlighter-rouge">git push [remote] [branch]</code> : Enviar cambios a la rama x del repositorio remoto</p>
+
+<p><code class="language-plaintext highlighter-rouge">git fetch</code> : Descarga el contenido del repositorio remoto pero no actualiza el repositorio local</p>
+
+<p><code class="language-plaintext highlighter-rouge">git merge</code> : Permite fusionar cambios</p>
+
+<p><code class="language-plaintext highlighter-rouge">git pull</code> : Fetch y Merge para los cambios del repositorio remoto</p>
+
+<p><code class="language-plaintext highlighter-rouge">git status</code> : Mostrar informacion</p>
+
+<p><code class="language-plaintext highlighter-rouge">git status -s</code> : Estado del archivo o directorio</p>
+
+<p><code class="language-plaintext highlighter-rouge">git log</code> : Historial de commits</p>
+
+<p><code class="language-plaintext highlighter-rouge">git log --oneline</code> : Resultados en una sola linea</p>
+
+<p><code class="language-plaintext highlighter-rouge">git reset --hard [id-commit]</code>: Regresar algun cambio (Se perderan los cambios realizados en commits posteriores al ingresado)</p>
+
+<hr />
+
+<h4 id="branches">[Branches]</h4>
+
+<p><code class="language-plaintext highlighter-rouge">git checkout -b</code> : Crear nueva rama y seleccionar dicha rama</p>
+
+<p><code class="language-plaintext highlighter-rouge">git checkout [branch]</code> : Cambiar de rama</p>
+
+<p><code class="language-plaintext highlighter-rouge">git branch</code> : Listar todas las ramas del repositorio</p>
+
+<p><code class="language-plaintext highlighter-rouge">git branch -d [branch]</code> : Eliminar rama</p>
+
+<p><code class="language-plaintext highlighter-rouge">git branch -r</code> : Listar remote/branch</p>
+
+<p><code class="language-plaintext highlighter-rouge">git branch -vv</code> : Listar ramas con informacion extras</p>
+
+<p><code class="language-plaintext highlighter-rouge">git push [remote] [branch]</code> : Enviar rama al repositorio remoto</p>
+
+<p><code class="language-plaintext highlighter-rouge">git push --all [remote]</code> : Enviar todas las ramas al repositorio remoto</p>
+
+<p><code class="language-plaintext highlighter-rouge">git push [remote] --delete [branch]</code> : Eliminar rama del repositorio remoto</p>
+
+<hr />
+
+<h4 id="extras">[Extras]</h4>
+
+<p><code class="language-plaintext highlighter-rouge">git tag [tag]</code> : Asignar tag a commit</p>
+
+<p><code class="language-plaintext highlighter-rouge">git push --tags [remote]</code> : Enviar todos los tags al repositorio remoto</p>
+
+<hr />
+
+<p>Última modificación: <em>27 May 2021</em></p>
+
+
+			</div>
+		</div>
+	</body>
+</html>
