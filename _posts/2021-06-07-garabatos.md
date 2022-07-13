@@ -56,11 +56,7 @@ Algunos garabatos.
 ---
 ## **Fuentes**
 
-- Fundamentos del sistema operativo UNIX, Jose M. Diaz - Rocio Muñoz, (2008).
-- *[C Lenguaje de programación](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))*, Wikipedia.
-- *[Preprocessor](https://en.wikipedia.org/wiki/Preprocessor)*, Wikipedia.
-- *[Lenguaje C](https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf)*, Enrique Vicente Bonet Esteban.
-- *[Uso de la funcion "main" en C/C++](https://blog.r2d2rigo.es/2009/03/10/uso-de-la-funcin-main-en-cc/)*, Rodrigo Diaz, (2009).
+Todos los derechos reservados.
 
 ---
 
