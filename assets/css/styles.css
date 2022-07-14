@@ -3,6 +3,7 @@
 	margin: 0;
 	padding: 0;
 	color: #fff;
+	font-family: Arial;
 }
 body {
 	background-color: #262626;
@@ -12,6 +13,10 @@ a {
 }
 a:hover {
 	color: #00994d;
+}
+code {
+  font-family: monospace;
+  color: #b6b6b6;
 }
 /* layouts */
 /* default*/
@@ -37,7 +42,7 @@ a:hover {
 	margin: 1%;
 	padding: 5px 0 5px 5px;
 	width: 195px;
-} 
+}
 #amc {
 	display: block;
 	margin: 2%;
