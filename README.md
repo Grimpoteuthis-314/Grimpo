@@ -7,4 +7,4 @@ Run `bundle exec jekyll serve` for a dev server. Navigate to `http://localhost:4
 
 ## more
 
-Run `jekyll serve --draft` to build drafts
+Run `bundle exec jekyll serve --draft` to build drafts
