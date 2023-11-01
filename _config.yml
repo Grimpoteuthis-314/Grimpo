@@ -6,6 +6,8 @@ plugins:
       - jekyll-sitemap
       - jekyll-seo-tag
 
+markdown: kramdown
+
 defaults:
     - scope:
         path: ""

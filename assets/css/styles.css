@@ -4,6 +4,8 @@
 	padding: 0;
 	color: #fff;
 	font-family: Arial;
+	border: 1px black;
+	border-style: inset;
 }
 body {
 	background-color: #262626;
